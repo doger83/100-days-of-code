@@ -93,7 +93,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{79
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ResumeTemplateOne", "Projects\WebDevCert\ResumeTemplateOne\", "{9E72FFB1-DDA0-48D5-90A4-687FD73E00C4}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51968"
 		Debug.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\ResumeTemplateOne\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51968\"
