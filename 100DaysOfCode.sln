@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsConsolUI", "Projec
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "g2-ERP", "g2-ERP", "{F5799C11-C50E-41B8-BDEB-363FB80C69D6}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage(1)", "Projects\WebDevCert\TributePage\", "{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage", "Projects\WebDevCert\TributePage\", "{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_65484"
@@ -90,6 +90,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "de", "de", "{4B87B840-A4A3-
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{797C0B0D-16A6-4055-829F-43D15360823E}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ResumeTemplateOne", "..\ResumeTemplateOne\", "{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51443"
+		Debug.AspNetCompiler.PhysicalPath = "..\ResumeTemplateOne\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51443\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51443"
+		Release.AspNetCompiler.PhysicalPath = "..\ResumeTemplateOne\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51443\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51443"
+		SlnRelativePath = "..\ResumeTemplateOne\"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -197,6 +218,18 @@ Global
 		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x64.Build.0 = Debug|Any CPU
 		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x86.ActiveCfg = Debug|Any CPU
 		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x86.Build.0 = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Debug|x64.Build.0 = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Debug|x86.Build.0 = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Release|x64.ActiveCfg = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Release|x64.Build.0 = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Release|x86.ActiveCfg = Debug|Any CPU
+		{893E0D2C-91FE-4DD5-832B-8ADD85B1310E}.Release|x86.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
