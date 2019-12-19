@@ -91,6 +91,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "de", "de", "{4B87B840-A4A3-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{797C0B0D-16A6-4055-829F-43D15360823E}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PersonalPortfolio(4)", "Projects\WebDevCert\PersonalPortfolio\", "{031D4D65-A41F-4261-89E6-F62176851512}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56926"
+		Debug.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\PersonalPortfolio\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56926\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56926"
+		Release.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\PersonalPortfolio\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56926\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56926"
+		SlnRelativePath = "Projects\WebDevCert\PersonalPortfolio\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +218,18 @@ Global
 		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x64.Build.0 = Debug|Any CPU
 		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x86.ActiveCfg = Debug|Any CPU
 		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x86.Build.0 = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Debug|x64.Build.0 = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Debug|x86.Build.0 = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Release|x64.ActiveCfg = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Release|x64.Build.0 = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Release|x86.ActiveCfg = Debug|Any CPU
+		{031D4D65-A41F-4261-89E6-F62176851512}.Release|x86.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -216,6 +249,7 @@ Global
 		{56B5B5F4-032D-4191-827F-EE73DCCC5367} = {A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}
 		{373F3A86-416B-42D2-8EB9-987A93DBF233} = {A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}
 		{4B87B840-A4A3-4B65-BC29-4F888E01D790} = {373F3A86-416B-42D2-8EB9-987A93DBF233}
+		{031D4D65-A41F-4261-89E6-F62176851512} = {797C0B0D-16A6-4055-829F-43D15360823E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0F19343-8185-4A9F-9165-0EA8544BC925}
