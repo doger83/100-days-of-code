@@ -1,5 +1,30 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 11 - Round 1
+#### December 98, 2019
+- ### Today's Progress:
+	Started the Personal Portfolio WebPage Project at https://www.freeCodeCamp.org.
+	Used the Template of my first Tutorials.
+
+	- ### Thoughts:		 
+		```
+		Because I want to get the Portfolio Page finished bevore Christmas, 
+		I should continue with this Project next and do the others next Year.	
+		```
+	- ### Links to work:
+		- #### [Tribute Page](Projects/WebDevCert/TributePage/Index.html)
+			
+			```bash
+			- DONE: The Page passed all Test.
+			- TODO: Add some CSS Style!		
+			```
+			- ####  [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
+			
+			```bash
+			- DONE: Added first HTML Tags to the Page
+			- TODO: Finish bevore Christmas!
+			```
+
 ## Day 10 - Round 1
 #### December 18, 2019
 - ### Today's Progress:
