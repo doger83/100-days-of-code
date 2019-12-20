@@ -27,9 +27,7 @@ I came home early and continued with the freeCodeCamp "Applied Accessibility" Tu
     - [x] 7. Datatype conversions
 
 ## Links to work:
-- [TODO](todo.md)
-- [Tribute Page](/Projects/WebDevCert/TributePage/Index.html)
-- [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html)
+| [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
 
 ## Day 11 - Round 1
 #### December 19, 2019
