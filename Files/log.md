@@ -9,21 +9,20 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 ### Tutorials:
 - #### [PRAGIM Tech.](https://www.youtube.com/watch?v=p_9f5SSXxLw&list=PLAC325451207E3105&index=70)
 
-	```
-   		- [x] Introduction to C#
-   		- [x] 2. Reading and writing to a console
-   		- [ ] 3. C# Built-in data types
-		- [ ] 4. C# String data type
-		- [ ] 5. Operators in C#
-		- [ ] 6. Nullable Types in C#
-   		- [ ] 7. Datatype conversions
-   		- [ ] 8. Arrays in C#
-   		- [ ] 9. Comments
-   		- [ ] 10. If statement
-   		- [ ] 11. Switch statement
-   		- [ ] 12. Switch continued
-   		- [ ] 13. While loop				
-	```
+
+	- [x] Introduction to C#
+   	- [x] Reading and writing to a console
+   	- [ ] 3. C# Built-in data types
+	- [ ] 4. C# String data type
+	- [ ] 5. Operators in C#
+	- [ ] 6. Nullable Types in C#
+   	- [ ] 7. Datatype conversions
+   	- [ ] 8. Arrays in C#
+   	- [ ] 9. Comments
+   	- [ ] 10. If statement
+   	- [ ] 11. Switch statement
+   	- [ ] 12. Switch continued
+   	- [ ] 13. While loop
 
 
 ### Links to work:

@@ -8,8 +8,23 @@
 #### c# [PRAGIM Tech.](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
 Please find all the free c# video tutorials from the basics to advanced topics. These c sharp video tutorials are ideal for beginners and intermediate programmers. We will discuss the following with easy to understand examples.
 
-   - [x] Introduction to C#
-   - [x] 2. Reading and writing to a console
+### Playlist
+- [x] Introduction
+- [x] ng 
+- [ ] ngegeg
+    ### Solar System Exploration, 1950s – 1960s
+
+    - [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+
    - [ ] 3. C# Built-in data types
    - [ ] 4. C# String data type
    - [ ] 5. Operators in C#
