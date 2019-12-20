@@ -5,13 +5,14 @@
 
 ## Today's Progress:
 Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md.
+I came home early and continued with the freeCodeCamp "Applied Accessibility" Tutorial.
 
 ## Tutorials
 - ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
 	- [x] Basic HTML and HTML5
     - [x] Basic CSS
-    - [ ] Applied Visual Design => started
-    - [ ] Applied Accessibility
+    - [x] Applied Visual Design
+    - [x] Applied Accessibility
     - [ ] Responsive Web Design Principles
     - [ ] CSS Flexbox
     - [ ] CSS Grid
