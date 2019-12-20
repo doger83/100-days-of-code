@@ -1,7 +1,33 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 12 - Round 1
+#### December 20, 2019
+- ### Today's Progress:
+Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md.
+
+### Tutorials:
+- [PRAGIM Tech.](https://www.youtube.com/watch?v=p_9f5SSXxLw&list=PLAC325451207E3105&index=70)
+	```
+	[TODO](https://www.youtube.com/watch?v=p_9f5SSXxLw&list=PLAC325451207E3105&index=70)				
+	```
+
+
+- ### Links to work:
+	- #### [Tribute Page](Projects/WebDevCert/TributePage/Index.html)
+			
+		```
+					
+		```
+	- ####  [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
+			
+		```
+			
+		```
+
+
+
 ## Day 11 - Round 1
-#### December 98, 2019
+#### December 19, 2019
 - ### Today's Progress:
 	Started the Personal Portfolio WebPage Project at https://www.freeCodeCamp.org.
 	Used the Template of my first Tutorials.
@@ -14,13 +40,13 @@
 	- ### Links to work:
 		- #### [Tribute Page](Projects/WebDevCert/TributePage/Index.html)
 			
-			```bash
+			```
 			- DONE: The Page passed all Test.
 			- TODO: Add some CSS Style!		
 			```
-			- ####  [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
+		- ####  [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
 			
-			```bash
+			```
 			- DONE: Added first HTML Tags to the Page
 			- TODO: Finish bevore Christmas!
 			```
