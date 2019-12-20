@@ -54,6 +54,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}"
 	ProjectSection(SolutionItems) = preProject
 		Files\log - Vorlage.md = Files\log - Vorlage.md
+		Files\log.md = Files\log.md
 		Files\TODO.md = Files\TODO.md
 		Files\MyHotKeys.ahk = Files\MyHotKeys.ahk
 		Files\r1-log.md = Files\r1-log.md
