@@ -53,13 +53,15 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage(1)", "Projects\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		Files\log - Vorlage.md = Files\log - Vorlage.md
 		Files\log.md = Files\log.md
-		Files\TODO.md = Files\TODO.md
 		Files\MyHotKeys.ahk = Files\MyHotKeys.ahk
 		Files\r1-log.md = Files\r1-log.md
+		README.md = README.md
 		Files\resources.md = Files\resources.md
 		Files\rules.md = Files\rules.md
+		Files\TODO.md = Files\TODO.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{56B5B5F4-032D-4191-827F-EE73DCCC5367}"
