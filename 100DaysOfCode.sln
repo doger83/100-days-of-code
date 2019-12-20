@@ -73,25 +73,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "de", "de", "{4B87B840-A4A3-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{797C0B0D-16A6-4055-829F-43D15360823E}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage(1)", "P:\projects\100-days-of-code\Projects\WebDevCert\TributePage\", "{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage(3)", "Projects\WebDevCert\TributePage\", "{BF129530-1397-450A-B69D-9E3DF960161A}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_65484"
-		Debug.AspNetCompiler.PhysicalPath = "P:\projects\100-days-of-code\Projects\WebDevCert\TributePage\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65484\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59059"
+		Debug.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\TributePage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59059\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_65484"
-		Release.AspNetCompiler.PhysicalPath = "P:\projects\100-days-of-code\Projects\WebDevCert\TributePage\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65484\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59059"
+		Release.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\TributePage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59059\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "65484"
-		SlnRelativePath = "P:\projects\100-days-of-code\Projects\WebDevCert\TributePage\"
+		VWDPort = "59059"
+		SlnRelativePath = "Projects\WebDevCert\TributePage\"
 	EndProjectSection
 EndProject
 Global
@@ -188,18 +188,18 @@ Global
 		{9548FCAA-429F-44E5-812B-0066DD272797}.Release|x64.Build.0 = Release|Any CPU
 		{9548FCAA-429F-44E5-812B-0066DD272797}.Release|x86.ActiveCfg = Release|Any CPU
 		{9548FCAA-429F-44E5-812B-0066DD272797}.Release|x86.Build.0 = Release|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Debug|x64.Build.0 = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Debug|x86.Build.0 = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x64.ActiveCfg = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x64.Build.0 = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x86.ActiveCfg = Debug|Any CPU
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74}.Release|x86.Build.0 = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x64.ActiveCfg = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x64.Build.0 = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x86.ActiveCfg = Debug|Any CPU
+		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x86.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -218,7 +218,7 @@ Global
 		{56B5B5F4-032D-4191-827F-EE73DCCC5367} = {A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}
 		{373F3A86-416B-42D2-8EB9-987A93DBF233} = {A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}
 		{4B87B840-A4A3-4B65-BC29-4F888E01D790} = {373F3A86-416B-42D2-8EB9-987A93DBF233}
-		{7105A2B7-16E4-4DFE-9DF6-6A74BA5ECE74} = {797C0B0D-16A6-4055-829F-43D15360823E}
+		{BF129530-1397-450A-B69D-9E3DF960161A} = {797C0B0D-16A6-4055-829F-43D15360823E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0F19343-8185-4A9F-9165-0EA8544BC925}
