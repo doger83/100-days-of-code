@@ -1,14 +1,15 @@
 # #100DaysOfCode TODO - Round 1 - Dominic Gerweck
 
-## TODO
+# TODO
 #### Status December 20, 2019
 
-### Tutorials
+## Tutorials
+---
 #### c# [PRAGIM Tech.](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
 Please find all the free c# video tutorials from the basics to advanced topics. These c sharp video tutorials are ideal for beginners and intermediate programmers. We will discuss the following with easy to understand examples.
 
-   - [ ] 1. Introduction to C#
-   - [ ] 2. Reading and writing to a console
+   - [x] Introduction to C#
+   - [x] 2. Reading and writing to a console
    - [ ] 3. C# Built-in data types
    - [ ] 4. C# String data type
    - [ ] 5. Operators in C#
@@ -111,37 +112,42 @@ Please find all the free c# video tutorials from the basics to advanced topics. 
    - [ ] 101. Async and await in c#
    - [ ] 102. How to wait for a thread to finish without blocking
 
-### Chalenges
-#### KATA Arry.diff [codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)
+## Chalenges
+---
+### KATA Arry.diff [codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)
 Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 
-It should remove all values from list a, which are present in list b.
-```csharp
-Kata.ArrayDiff(new int[] {1, 2}, new int[] {1}) => new int[] {2}		
-```
+- ### Details
+    - #### It should remove all values from list a, which are present in list b.
 
-If a value is present in b, all of its occurrences must be removed from the other:
+        ```csharp
+        Kata.ArrayDiff(new int[] {1, 2}, new int[] {1}) => new int[] {2}		
+        ```
 
-```csharp
-Kata.ArrayDiff(new int[] {1, 2, 2, 2, 3}, new int[] {2}) => new int[] {1, 3}
-```
+    - #### If a value is present in b, all of its occurrences must be removed from the other:
 
-Solution
+        ```csharp
+        Kata.ArrayDiff(new int[] {1, 2, 2, 2, 3}, new int[] {2}) => new int[] {1, 3}
+        ```
 
-```csharp
-public static int[] Solution (int[] a, int[] b) 
-{
-    int[] result = a;
+    - #### Solution
+        Not finished yet.
 
-    // not finished jet!
-    // TODO : find solution for the KATA from codewars (Array.Diff)
+        ```csharp
+        public static int[] Solution (int[] a, int[] b) 
+        {
+            int[] result = a;
 
-    return result;
-}
-```
+            // not finished jet!
+            // TODO : find solution for the KATA from codewars (Array.Diff)
 
-### Projects
-#### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
+            return result;
+        }
+        ```
+
+## Projects
+---
+### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
 
 - [x] 1. Tribute Page
 - [ ] 2. Survey Form

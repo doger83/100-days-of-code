@@ -2,7 +2,8 @@
 
 ## Day 12 - Round 1
 #### December 20, 2019
-- ### Today's Progress:
+
+### Today's Progress:
 Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md.
 
 ### Tutorials:
@@ -12,13 +13,13 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 	```
 
 
-- ### Links to work:
-	- #### [Tribute Page](Projects/WebDevCert/TributePage/Index.html)
+### Links to work:
+- #### [Tribute Page](Projects/WebDevCert/TributePage/Index.html)
 			
 		```
 					
 		```
-	- ####  [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
+- ####  [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
 			
 		```
 			
