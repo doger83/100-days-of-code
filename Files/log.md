@@ -1,7 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
 ## Day 12 - Round 1
----
 #### December 20, 2019
 
 ## Today's Progress:
@@ -32,7 +31,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 - [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html)
 
 ## Day 11 - Round 1
----
 #### December 19, 2019
 - ### Today's Progress:
 	Started the Personal Portfolio WebPage Project at https://www.freeCodeCamp.org.
@@ -58,7 +56,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 			```
 
 ## Day 10 - Round 1
----
 #### December 18, 2019
 - ### Today's Progress:
 	Cleaned up the entire solution, renamed everthing, updated the Log, and added a Web project for styling and uploading the TributePage.
@@ -69,7 +66,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 9 - Round 1
----
 #### December 17, 2019
 - ### Today's Progress:
 	Worked on the Tribute-Page-Project from the Responsive Web Design Certification Course on https://www.freeCodeCamp.org.
@@ -86,7 +82,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 8 - Round 1
----
 #### December 16, 2019
 - ### Today's Progress:
 	Started the Responsive Web Design Certification Course on https://www.freeCodeCamp.org.
@@ -98,7 +93,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 7 - Round 1
----
 #### December 15, 2019
 - ### Today's Progress:
 	Started the Responsive Web Design Certification Course on https://www.freeCodeCamp.org.
@@ -110,7 +104,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 6 - Round 1
----
 ### December 14, 2019
 - ### Today's Progress:
 	Did just **Array Tutorials** the whole day, again!!!!
@@ -121,7 +114,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 5 - Round 1
----
 #### December 13, 2019
 - ### Today's Progress:
 	Did just **Array Tutorials** the whole day.
@@ -132,7 +124,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 4 - Round 1
----
 #### December 12, 2019
 - ### Today's Progress:
 	**Crashed my system !!** Had to re-install windows and ALL!!! my software and tools.
@@ -143,7 +134,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 3 - Round 1
----
 #### December 11, 2019
 - ### Today's Progress:
 	Started a Kata Challange on codewars.com. Kata: 
@@ -163,7 +153,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 	Maybe find a solution next week...
 
 ## Day 2 - Round 1
----
 #### December 10, 2019
 - ### Today's Progress:
 	Did just **c# tutorials** the whole day. 
@@ -179,7 +168,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```
 
 ## Day 1 - Round 1
----
 #### December 09, 2019
 - ### Today's Progress:
 	One hour c# tutorial at https://www.sololearn.com/. It was a very simple tutorial for getting on the platform. The basics were discussed on the following topics: Conditionals and Loops, Methods, Classes & Objects.
@@ -197,7 +185,6 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 		```	
 
 ## Day 0 - Round 1
----
 #### December 08, 2019
 - ### Today's Progress:
 	Everything is now set up for the 100-DaysOfCode Cahallenges. Twitter / Instagram account are connected. Forked the GitHub repo and set up accordingly. Created a simple ConsoleUI project as well as a class library in Visual Studio 2019. 
