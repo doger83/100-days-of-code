@@ -11,7 +11,7 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
 - ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
 	- [x] Basic HTML and HTML5
     - [x] Basic CSS
-    - [ ] Applied Visual Design
+    - [ ] Applied Visual Design => started
     - [ ] Applied Accessibility
     - [ ] Responsive Web Design Principles
     - [ ] CSS Flexbox
