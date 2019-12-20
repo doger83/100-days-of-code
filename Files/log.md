@@ -27,7 +27,7 @@ Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md
     - [x] 7. Datatype conversions
 
 ## Links to work:
-[TODO](Files/todo.md)
+[TODO](todo.md)
 [Tribute Page](Projects/WebDevCert/TributePage/Index.html)
 [Personal Portfolio](Projects/WebDevCert/PersonalPortfolio/index.html)
 
