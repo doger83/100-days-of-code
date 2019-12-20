@@ -4,8 +4,9 @@
 #### December 20, 2019
 
 ## Today's Progress:
-Today I just watched some c# Beginner Tutorials at youtube and created a TODO.md.
+Today I first watched some c# Beginner Tutorials at youtube and created a TODO.
 I came home early and continued with the freeCodeCamp "Applied Accessibility" Tutorial.
+Updated the Tribute page.
 
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
