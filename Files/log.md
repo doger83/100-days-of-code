@@ -10,21 +10,21 @@ I came home early and continued with the freeCodeCamp "Applied Accessibility" Tu
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [x] Basic HTML and HTML5
-    - [x] Basic CSS
-    - [x] Applied Visual Design
-    - [x] Applied Accessibility
-    - [ ] Responsive Web Design Principles
-    - [ ] CSS Flexbox
-    - [ ] CSS Grid
+	- [x] Basic CSS
+	- [x] Applied Visual Design
+	- [x] Applied Accessibility
+	- [ ] Responsive Web Design Principles
+	- [ ] CSS Flexbox
+	- [ ] CSS Grid
 
 - ### c# tutorial for beginners at [PRAGIM Tech.](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
-    - [x] 1. Introduction to C#
-    - [x] 2. Reading and writing to a console
-    - [x] 3. C# Built-in data types
-    - [x] 4. C# String data type
-    - [x] 5. Operators in C#
-    - [x] 6. Nullable Types in C#
-    - [x] 7. Datatype conversions
+	- [x] 1. Introduction to C#
+	- [x] 2. Reading and writing to a console
+	- [x] 3. C# Built-in data types
+	- [x] 4. C# String data type
+	- [x] 5. Operators in C#
+	- [x] 6. Nullable Types in C#
+	- [x] 7. Datatype conversions
 
 ## Links to work:
 | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |

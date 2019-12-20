@@ -4,7 +4,26 @@
     <meta charset="utf-8" />
     <title>Tribute Page</title>
     <style>
-        #main {
+        .sr-only {
+            position: absolute;
+            left: -10000px;
+            width: 1px;
+            height: 1px;
+            top: auto;
+            overflow: hidden;
+        }
+
+        body {
+            color: #FFF;
+            background-color: #636363;
+        }
+
+        p:focus {
+            Tabindex ="0"
+        }
+
+
+        /*#main {
             background-color: white;
             text-align: center;
             max-width: 100%;
@@ -60,29 +79,77 @@
             margin: 0px;
             padding: 0px;
             background-color: #2e2d2e;
-        }
+        }*/
     </style>
 </head>
 <body>
-    <div id="main">
+    <header id="header  ">
         <h1 id="title">Dominic Gerweck</h1>
-        <p>draftsman in archticture now learning how to code</p>
-        <div id="img-div">
-            <img id="image" src="images/Me.jpg" alt="that is me, Dominic Gerweck" />
-            <p id="img-caption">that is me...</p>
-        </div>
-        <h3 id="tribute-info">Here is a time line of Dominic Gerweck life:</h3>
-        <ul>
-            <li><strong>1983</strong> - Born in Bretten, Baden-Wurttemberg (Germany)</li>
-            <li><strong>2000</strong> - ................</li>
-            <li><strong>2003</strong> - ................</li>
-            <li><strong>2005</strong> - ................</li>
-            <li><strong>2019</strong> - started learning how to code (c#) </li>
-            <li><strong>now</strong> - doing the ode challenge </li>
-        </ul>
-        <p><i>"famous quote from .....</i></p>
-        <p>If you have time, you should read more about this incredible human being on his</p>
-        <a id="tribute-link" href="#" target="_blank">personal website</a>.<br />
-    </div>
+        <nav>
+            <ul>
+                <li><a accesskey="a" href="#about">About Me</a></li>
+                <li><a accesskey="t" href="#timeline">Time Line</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+    <main id="main">
+
+        <section id="about">
+
+            <article>
+
+                <h2>Let me introduce myself</h2>
+                <p>Draftsman in archticture now learning how to code, becoming a career-changer in App-Development.</p>
+            </article>
+
+            <figure>
+                <div id="img-div">
+                    <img id="image" src="images/Me.jpg" alt="this is an image of myself" />
+                    <figcaption id="img-caption">Taht's Me - Dominic Gerweck</figcaption>
+                </div>
+            </figure>
+
+        </section>
+
+        <section id="timeline">
+            <article>
+
+                <h2 id="tribute-info">Here is a short time line of my life:</h2>
+
+                <ul>
+                    <li><strong>1983</strong> - Born in Bretten, Baden-Wurttemberg (Germany)</li>
+                    <li><strong>2000</strong> - ................</li>
+                    <li><strong>2003</strong> - ................</li>
+                    <li><strong>2005</strong> - ................</li>
+                    <li><strong>2019</strong> - started learning how to code (c#) </li>
+                    <li><strong>now</strong> - doing the ode challenge </li>
+                </ul>
+
+            </article>
+
+            <article>
+
+                <p><i>"famous quote from .....</i></p>
+
+            </article>
+
+            <article>
+                <p>
+                    If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="#" target="_blank">personal Website</a>.
+                </p>
+
+            </article>
+
+        </section>
+
+    </main>
+
+    <footer id="footer  ">
+
+        <p> &copy; Dominic Gerweck</p>
+
+    </footer>
 </body>
 </html>
