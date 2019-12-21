@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SurveyForm", ".", "{071E1288-B104-43E1-894D-5A9F871CEDDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56128"
+		Debug.AspNetCompiler.PhysicalPath = "..\SurveyForm\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56128\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56128"
+		Release.AspNetCompiler.PhysicalPath = "..\SurveyForm\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56128\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56128"
+		SlnRelativePath = "..\SurveyForm\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5011FE8F-0780-4946-AC75-13F53663A54E}
+	EndGlobalSection
+EndGlobal
