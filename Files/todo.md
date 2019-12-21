@@ -9,9 +9,9 @@
     #### Lessons 
     - [x] Basic HTML and HTML5
     - [x] Basic CSS
-    - [ ] Applied Visual Design
-    - [ ] Applied Accessibility
-    - [ ] Responsive Web Design Principles
+    - [x] Applied Visual Design
+    - [x] Applied Accessibility
+    - [x] Responsive Web Design Principles
     - [ ] CSS Flexbox
     - [ ] CSS Grid
 
