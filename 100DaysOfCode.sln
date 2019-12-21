@@ -94,6 +94,27 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage(3)", "Projects\
 		SlnRelativePath = "Projects\WebDevCert\TributePage\"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SurveyForm", "Projects\WebDevCert\SurveyForm\", "{071E1288-B104-43E1-894D-5A9F871CEDDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56128"
+		Debug.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\SurveyForm\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56128\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56128"
+		Release.AspNetCompiler.PhysicalPath = "Projects\WebDevCert\SurveyForm\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56128\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56128"
+		SlnRelativePath = "Projects\WebDevCert\SurveyForm\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -200,6 +221,18 @@ Global
 		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x64.Build.0 = Debug|Any CPU
 		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x86.ActiveCfg = Debug|Any CPU
 		{BF129530-1397-450A-B69D-9E3DF960161A}.Release|x86.Build.0 = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|x64.Build.0 = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Debug|x86.Build.0 = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Release|x64.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Release|x64.Build.0 = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Release|x86.ActiveCfg = Debug|Any CPU
+		{071E1288-B104-43E1-894D-5A9F871CEDDE}.Release|x86.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -219,6 +252,7 @@ Global
 		{373F3A86-416B-42D2-8EB9-987A93DBF233} = {A1DD0483-559C-4CDA-B0AD-6B2F9E360DF2}
 		{4B87B840-A4A3-4B65-BC29-4F888E01D790} = {373F3A86-416B-42D2-8EB9-987A93DBF233}
 		{BF129530-1397-450A-B69D-9E3DF960161A} = {797C0B0D-16A6-4055-829F-43D15360823E}
+		{071E1288-B104-43E1-894D-5A9F871CEDDE} = {797C0B0D-16A6-4055-829F-43D15360823E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0F19343-8185-4A9F-9165-0EA8544BC925}
