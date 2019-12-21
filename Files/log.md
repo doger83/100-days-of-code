@@ -1,5 +1,28 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 13 - Round 1
+#### December 21, 2019
+
+## Today's Progress:
+Finished the Responsive Web Design Principles Tutorial. Worked a bit on the Tribute Page.
+
+## Tutorials
+- ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- [x] Basic HTML and HTML5
+	- [x] Basic CSS
+	- [x] Applied Visual Design
+	- [x] Applied Accessibility
+	- [x] Responsive Web Design Principles
+	- [ ] CSS Flexbox
+	- [ ] CSS Grid
+## Projects
+- ### Tribute Page
+	I added the *Responsive Web Design Principles* I learned ealier in the tutorial. 
+
+
+## Links to work:
+| [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
 ## Day 12 - Round 1
 #### December 20, 2019
 
@@ -10,7 +33,7 @@ Updated the Tribute page.
 
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
-- [x] Basic HTML and HTML5
+	- [x] Basic HTML and HTML5
 	- [x] Basic CSS
 	- [x] Applied Visual Design
 	- [x] Applied Accessibility
