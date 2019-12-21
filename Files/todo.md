@@ -161,7 +161,7 @@ Your goal in this kata is to implement a difference function, which subtracts on
 - ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
 
     - [x] 1. Tribute Page
-    - [ ] 2. Survey Form
+    - [-] 2. Survey Form (started project)
     - [ ] 3. Product Landing Page
     - [ ] 4. Technical Documentation Page
     - [ ] 5. Personal Portfolio Webpage
