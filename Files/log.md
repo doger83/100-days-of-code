@@ -4,7 +4,10 @@
 #### December 21, 2019
 
 ## Today's Progress:
-Finished the Responsive Web Design Principles Tutorial. Worked a bit on the Tribute Page.
+Finished the Responsive Web Design Principles Tutorial. 
+Worked a bit on my Tribute Page. 
+Continued at freeCodeCamp.org an did the FlexBox Tutorial.
+Started the Survey Form Project.
 
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
@@ -13,15 +16,18 @@ Finished the Responsive Web Design Principles Tutorial. Worked a bit on the Trib
 	- [x] Applied Visual Design
 	- [x] Applied Accessibility
 	- [x] Responsive Web Design Principles
-	- [ ] CSS Flexbox
+	- [x] CSS Flexbox
 	- [ ] CSS Grid
 ## Projects
 - ### Tribute Page
 	I added the *Responsive Web Design Principles* I learned ealier in the tutorial. 
-
+- ### Survey Form
+	Started a blanc project from scratch
 
 ## Links to work:
-| [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+| [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) |
+
+---
 
 ## Day 12 - Round 1
 #### December 20, 2019
