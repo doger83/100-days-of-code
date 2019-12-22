@@ -5,8 +5,7 @@
 
 ## Tutorials
 ---
--   ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
-	#### Lessons 
+-   ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn) 
 	- [x] Basic HTML and HTML5
 	- [x] Basic CSS
 	- [x] Applied Visual Design
@@ -15,7 +14,7 @@
 	- [ ] CSS Flexbox
 	- [ ] CSS Grid
 
-- ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
+-   ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
 	- [x] C# Tutorial
 	- [x] HTML Fundamentals
 	- [ ] CSS Fundamentals 
@@ -132,7 +131,7 @@
 	- [ ] 102. How to wait for a thread to finish without blocking
 
 
-## Chalenges
+## Challenges
 ---
 ### KATA Arry.diff at [codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)
 Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
@@ -165,13 +164,13 @@ Your goal in this kata is to implement a difference function, which subtracts on
 	}
 	```
 
-## Projects
+## Main Projects
 ---
 - ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
 
 	- [x] 1. Tribute Page
-	- [-] 2. Survey Form (started project)
+	- [ ] 2. Survey Form (started project)
 	- [ ] 3. Product Landing Page
 	- [ ] 4. Technical Documentation Page
-	- [-] 5. Personal Portfolio Webpage (started project)
+	- [ ] 5. Personal Portfolio Webpage (started project)
 
