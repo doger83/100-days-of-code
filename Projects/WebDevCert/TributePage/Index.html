@@ -4,162 +4,259 @@
     <meta charset="utf-8" />
     <title>Tribute Page</title>
     <style>
-        .sr-only {
-            position: absolute;
-            left: -10000px;
-            width: 1px;
-            height: 1px;
-            top: auto;
-            overflow: hidden;
+        @import url('https://fonts.googleapis.com/css?family=Raleway');
+
+        * {
+            margin: 0;
+            padding: 0;
         }
 
         body {
-            color: #F6F7F5;
-            background-color: #9E9B9F;
+            background: url(images/Background.jpg);
+            background-repeat: no-repeat;
+            background-position: center top;
+            background-attachment: fixed;
+            background-size: cover;
+            font-family: "Roboto Condensed";
+            height: 100%;
+            width: 100%;
+            color: white;
         }
 
-
-        p:focus {
+        #info-button {
         }
 
+            #info-button a {
+                color: white;
+                font-size: 12px;
+                background: #C07548;
+                opacity: .8;
+            }
 
-        #main {
-            background-color: #7B7C7B;
+                #info-button a:hover {
+                    opacity: 1;
+                }
+
+        .container {
+            max-width: 1000px;
+            min-width: 600px;
+            width: 100%;
+            margin: 20px auto;
+            position: relative;
+            background: rgba(77,77,77,.5);
+            padding: 10px;
+            box-sizing: border-box;
+            border-radius: 5px;
+        }
+
+        .line {
+            width: 50%;
+            border-bottom: 2px solid white;
+            margin: 10px auto;
+        }
+
+        .name {
+            color: white;
+            font-size: 46px;
+            font-weight: 800;
             text-align: center;
-            max-width: 100%;
-            width: auto;
-            margin: 0px;
-            padding: 0px;
+            text-shadow: 1px 1px 2px black;
+            font-family: "Roboto Condensed", sans-serif;
+            margin: 0;
+            padding: 0;
         }
 
-        #title {
-            background-color: #383338;
-            color: #f5f4f1;
-            margin: 0px;
-            padding: 0px;
+        #main-info {
+            border-bottom: 4px solid rgba(255,255,255,.6);
+            padding: 10px;
         }
 
-        div {
-            background-color: #9E9B9F;
+        #image-container {
+            margin: 0 auto;
+            height: 240px;
+            width: 240px;
+            border: 6px solid #65a968;
+            border-radius: 50%;
+            overflow: hidden;
             position: relative;
-            max-width: 100%;
-            height: auto;
         }
 
-        #img-div {
-            position: relative;
-            max-width: 100%;
-            height: auto;
-            background-color: #C07548;
-            margin: 15px;
-            padding: 15px;
+        #image-filter {
+            width: 100%;
+            height: 100%;
+            opacity: .2;
+            position: absolute;
+            top: 0;
         }
 
         #image {
-            position: relative;
-            max-width: 100%;
-            height: auto;
-            border-radius: 50%;
-            border: 25px;
-            border-style: double;
-            border-color: #65a968;
+            height: 250px;
+            width: 250px;
+            background-image: url(images/Me.jpg);
+            background-position: center;
+            background-size: cover;
         }
 
-        ul {
+        .main-text {
+            text-align: center;
+            width: 100%;
+            color: white;
+            text-shadow: 1px 1px 2px black;
+            margin: 5px;
+        }
+
+        .text {
+            border: 2px solid white;
+            border-left: none;
+            height: 240px;
+            width: 360px;
+            background: #2e2e2e;
+            color: white;
+        }
+
+        #timeline {
+            /*font-family: "Raleway";*/
+            margin: 0 15px;
+            padding: 10px;
+            box-sizing: border-box;
+            width: auto;
+        }
+
+        .item {
+            margin: 20px 0;
+            background: rgba(255,255,255,.1);
+            background: white;
+            color: black;
+        }
+
+        .date {
+            font-size: 22px;
+            font-weight: bold;
+            text-align: center;
+            border-bottom: 1px solid #cdcdcd;
+            padding: 14px;
+            box-sizing: border-box;
+            background: #65a968;
+            color: white;
+        }
+
+        .timeline-title {
+            margin-top: 30px;
+            font-size: 36px;
+            text-align: center;
+            width: 100%;
+        }
+
+        #quotes {
+            max-width: 500px;
+            width: 100%;
+            margin: 10px auto;
+            padding: 10px;
+            box-sizing: border-box;
+            background: rgba(0,0,0,.2);
+            border: 2px solid rgba(255,255,255,1);
+            height: 50px;
+            border-radius: 8px;
+            display: table;
+        }
+
+        #text {
+            display: table-cell;
+            vertical-align: middle;
+            font-size: 14px;
+            font-family: "Raleway";
+            text-align: center;
+            letter-spacing: 1.1px;
+            text-shadow: 1px 1px 2px black;
+        }
+
+        .info {
+            font-family: Tahoma;
+            font-size: 16px;
+            box-sizing: border-box;
+            width: 50%;
+            margin: 0 auto;
             text-align: left;
-            margin: 0px;
-            padding: 0px;
+            letter-spacing: 0px;
+            padding: 15px 0;
+            font-weight: 500;
         }
 
-        #tribute-info {
-            margin: 0px;
-            padding: 0px;
-            background-color: #9B9492;
+        #learn {
+            width: 400px;
+            min-width: 300px;
+            margin: 0 auto;
         }
 
-        #tribute-link {
-            margin: 0px;
-            padding: 0px;
-            background-color: #2e2d2e;
+        a {
+            text-decoration: none;
+            color: white;
+            text-align: center;
+            display: block;
+            font-size: 22px;
+            background: #C07548;
+            padding: 10px;
         }
 
-        h2 {
-            width: 80vw;
+        #learn a:hover {
+            color: rgba(255,255,255,0.8);
         }
 
-        p {
-            width: 75vmin;
+        @media (max-width: 768px) {
+            .container {
+                padding: 0;
+                margin: 0;
+            }
+
+            .item {
+                margin: 5px 0;
+                width: 100%;
+            }
+
+            #timeline {
+                margin: 0;
+                padding: 2px;
+            }
         }
     </style>
 </head>
 <body>
-    <header id="header  ">
-        <h1 id="title">Dominic Gerweck</h1>
-        <nav>
-            <ul>
-                <li><a accesskey="a" href="#about">About Me</a></li>
-                <li><a accesskey="t" href="#timeline">Time Line</a></li>
-            </ul>
-
-        </nav>
-    </header>
-
-    <main id="main">
-
-        <section id="about">
-
-            <article>
-
-                <h2>Let me introduce myself</h2>
-                <p>Draftsman in archticture now learning how to code, becoming a career-changer in App-Development.</p>
-            </article>
-
-            <figure>
-                <div id="img-div">
-                    <img id="image" src="images/Me.jpg" alt="this is an image of myself" />
-                    <figcaption id="img-caption">Taht's Me - Dominic Gerweck</figcaption>
+    <div class="container">
+        <div id="main-info">
+            <div id="image-container">
+                <div id="image-filter"></div>
+                <div id="image"></div>
+            </div>
+            <div id="quotes">
+                <div id="text">
+                    "Speak softly and carry a big stick; you will go far."
                 </div>
-            </figure>
-
-        </section>
-
-        <section id="timeline">
-            <article>
-
-                <h2 id="tribute-info">Here is a short time line of my life:</h2>
-
-                <ul>
-                    <li><strong>1983</strong> - Born in Bretten, Baden-Wurttemberg (Germany)</li>
-                    <li><strong>2000</strong> - ................</li>
-                    <li><strong>2003</strong> - ................</li>
-                    <li><strong>2005</strong> - ................</li>
-                    <li><strong>2019</strong> - started learning how to code (c#) </li>
-                    <li><strong>now</strong> - doing the ode challenge </li>
-                </ul>
-
-            </article>
-
-            <article>
-
-                <p><i>"famous quote from .....</i></p>
-
-            </article>
-
-            <article>
-                <p>
-                    If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="#" target="_blank">personal Website</a>.
-                </p>
-
-            </article>
-
-        </section>
-
-    </main>
-
-    <footer id="footer  ">
-
-        <p> &copy; Dominic Gerweck</p>
-
-    </footer>
+            </div>
+            <h1 class="name">Dominic Gerweck</h1>
+            <h2 class="main-text">~ Born ~</h2>
+            <div id="dob" class="main-text"><h3>April 10, 1983</h3></div>
+            <div class="line"></div>
+            <div id="pres" class="main-text">
+                <h2>
+                    well trained draftsman <br /> in the field of architecture
+                </h2>
+                <h3>2003 – 2019</h3>
+            </div>
+            <div class="line"></div>
+            <div id="pres" class="main-text">
+                <h2>
+                    now career changer <br /> in app developpment
+                </h2>
+                <h3>2019 ...</h3>
+            </div>
+        </div>
+        <h2 class="timeline-title">- Timeline -</h2>
+        <div id="timeline">
+        </div>
+        <div id="learn">
+            <a href="https://www.dominic-gerweck.de">Learn more about Dominic Gerweck</a>
+        </div>
+    </div>
 </body>
 </html>
+<script src="JavaScript.js"></script>
