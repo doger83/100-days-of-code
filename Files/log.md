@@ -8,6 +8,8 @@ Finished the Responsive Web Design Principles Tutorial.
 Worked a bit on my Tribute Page. 
 Continued at freeCodeCamp.org an did the FlexBox Tutorial.
 Started the Survey Form Project.
+Later I did the HTML Fundamentals Course at SoloLearn.com.
+Finished it at midnight and got the Certification. Yeay...
 
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
@@ -18,11 +20,23 @@ Started the Survey Form Project.
 	- [x] Responsive Web Design Principles
 	- [x] CSS Flexbox
 	- [ ] CSS Grid
+
+- ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
+	- [x] C# Tutorial
+	- [x] HTML Fundamentals
+	- [ ] CSS Fundamentals 
+	- [ ] JavaScript Tutorial
+	- [ ] SQL Fundamentals
+	- [ ] Ruby Tutorial
+	- [ ] jQuery Tutorial
+
 ## Projects
 - ### Tribute Page
 	I added the *Responsive Web Design Principles* I learned ealier in the tutorial. 
 - ### Survey Form
 	Started a blanc project from scratch
+- ### Personal Portfolio Page
+	Started a blanc project and added a template which I used earlier in another tutorial.
 
 ## Links to work:
 | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) |
