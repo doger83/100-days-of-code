@@ -11,13 +11,13 @@
 	- [x] Applied Visual Design
 	- [x] Applied Accessibility
 	- [x] Responsive Web Design Principles
-	- [ ] CSS Flexbox
-	- [ ] CSS Grid
+	- [x] CSS Flexbox
+	- [x] CSS Grid
 
 -   ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
 	- [x] C# Tutorial
 	- [x] HTML Fundamentals
-	- [ ] CSS Fundamentals 
+	- [ ] CSS Fundamentals (started)
 	- [ ] JavaScript Tutorial
 	- [ ] SQL Fundamentals
 	- [ ] Ruby Tutorial
@@ -168,7 +168,10 @@ Your goal in this kata is to implement a difference function, which subtracts on
 ---
 - ### Responsive Web Design Certification [freeCodeCamp](https://www.freecodecamp.org/learn)
 
-	- [x] 1. Tribute Page
+	- [x] Tribute Page (online!)
+		```
+		- restyle the timeline section. (bootstrap)
+		```
 	- [ ] 2. Survey Form (started project)
 	- [ ] 3. Product Landing Page
 	- [ ] 4. Technical Documentation Page
