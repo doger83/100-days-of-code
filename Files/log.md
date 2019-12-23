@@ -1,4 +1,59 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 15 - Round 1
+#### December 23, 2019
+
+## Today's Progress:
+Today I did some tutorials on sololearn.com. I finished the CSS Grid tutorial on freeCodeCamp.org. After this I continued working on the Survey Form project. 
+At least I worked on my Log and todo.
+
+## Thoughts
+
+## Tutorials
+- ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- [x] CSS Grid
+- ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
+	- [x] C# Tutorial
+	- [x] HTML Fundamentals
+	- [ ] CSS Fundamentals (started)
+
+## Projects
+- ### Tribute Page
+	TODO: The new style is better but not finished. I will restyle the timeline section. 
+- ### Survey Form
+	Started a blanc project from scratch
+
+## Links to work:
+| [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) | 
+
+---
+
+## Day 14 - Round 1
+#### December 22, 2019
+
+## Today's Progress:
+During a night session I re-styled the Tribue Page. Then I did some tutorials on sololearn.com. I finished the CSS Flexbox tutorial on freeCodeCamp.org. At least I worked on my Log and todo.
+
+## Thoughts
+My design skills aren't very good. So I searched after a style I can use for the TributePage. I found a nice one.
+
+```
+A big "Thank You" for the template goes to:
+@JeremyWBean - https://www.codeseek.co/JeremyWBean 
+```
+
+## Tutorials
+- ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- [x] CSS Flexbox
+	- [ ] CSS Grid
+- ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
+	- [x] C# Tutorial
+	- [x] HTML Fundamentals
+	- [ ] CSS Fundamentals (started)
+
+## Links to work:
+| [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) |
+
+---
 
 ## Day 13 - Round 1
 #### December 21, 2019
@@ -18,7 +73,7 @@ Finished it at midnight and got the Certification. Yeay...
 	- [x] Applied Visual Design
 	- [x] Applied Accessibility
 	- [x] Responsive Web Design Principles
-	- [x] CSS Flexbox
+	- [ ] CSS Flexbox
 	- [ ] CSS Grid
 
 - ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
