@@ -1,4 +1,14 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 16 - Round 1
+#### December 24, 2019
+
+## Today's Progress:
+Merry Christmas...
+
+Today just a hour of tutorials with my smartphone.
+
+---
+
 ## Day 15 - Round 1
 #### December 23, 2019
 
