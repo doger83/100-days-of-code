@@ -15,6 +15,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  background-image: url(/img/main-background1.jpg);
 }
 
 /*
@@ -97,6 +98,75 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  text-align: center;
+}
+
+#survey-form {
+  background-color: purple;
+  color: white;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.row-tab {
+  display: block;
+  padding-top: 20px;
+}
+
+.label-burger {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+
+.input-burger {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+
+.select-input {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+
+.label-select {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+
+.labels-radio {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+}
+
+.input-radio {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+
+.checkbox-labels {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+}
+
+.checkbox-input {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+
+button {
+  padding: 10px;
+}
 
 /* ==========================================================================
    Helper classes
@@ -132,22 +202,22 @@ textarea {
   /* 1 */
 }
 
-/*
+  /*
 * Extends the .sr-only class to allow the element
 * to be focusable when navigated to via the keyboard:
 * https://www.drupal.org/node/897638
 */
 
-.sr-only.focusable:active,
-.sr-only.focusable:focus {
-  clip: auto;
-  height: auto;
-  margin: 0;
-  overflow: visible;
-  position: static;
-  white-space: inherit;
-  width: auto;
-}
+  .sr-only.focusable:active,
+  .sr-only.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    white-space: inherit;
+    width: auto;
+  }
 
 /*
 * Hide visually and from screen readers, but maintain layout
@@ -191,10 +261,7 @@ textarea {
   /* Style adjustments for viewports that meet the condition */
 }
 
-@media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
+@media print, (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 1.25dppx), (min-resolution: 120dpi) {
   /* Style adjustments for high resolution devices */
 }
 
@@ -214,13 +281,16 @@ textarea {
     box-shadow: none !important;
     text-shadow: none !important;
   }
+
   a,
   a:visited {
     text-decoration: underline;
   }
-  a[href]:after {
-    content: " (" attr(href) ")";
-  }
+
+    a[href]:after {
+      content: " (" attr(href) ")";
+    }
+
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
@@ -232,9 +302,11 @@ textarea {
   a[href^="javascript:"]:after {
     content: "";
   }
+
   pre {
     white-space: pre-wrap !important;
   }
+
   pre,
   blockquote {
     border: 1px solid #999;
@@ -247,19 +319,21 @@ textarea {
   thead {
     display: table-header-group;
   }
+
   tr,
   img {
     page-break-inside: avoid;
   }
+
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3;
   }
+
   h2,
   h3 {
     page-break-after: avoid;
   }
 }
-

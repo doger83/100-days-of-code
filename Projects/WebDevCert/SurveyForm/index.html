@@ -2,17 +2,16 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Quick Quiz</title>
+  <title>Survey Form</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
-  <!-- Place favicon.ico in the root directory -->
+  <!--Place favicon.ico in the root directory-->
 
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
-  <link href="css/style.css" rel="stylesheet" />
   <meta name="theme-color" content="#fafafa">
   <title>Survey Form</title>
 </head>
@@ -21,51 +20,110 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
   <!-- Add your site or application content here -->
-  <h1>Survey Form</h1>
-  <h2>Flex Box Tutorial</h2>
 
-  <h2>Merry Christmas !!!</h2>
-
-  <div id="box-container">
-    <div id="box-1"></div>
-    <div id="box-2"></div>
-  </div>
-  <header>
-    <img src="https://freecodecamp.s3.amazonaws.com/quincy-twitter-photo.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
-    <div class="profile-name">
-      <h3>Quincy Larson</h3>
-      <h4>@ossia</h4>
-    </div>
-    <div class="follow-btn">
-      <button>Follow</button>
-    </div>
-  </header>
-  <div id="inner">
-    <p>I meet so many people who are in search of that one trick that will help them work smart. Even if you work smart, you still have to work hard.</p>
-    <span class="date">1:32 PM - 12 Jan 2018</span>
-    <hr>
-  </div>
-  <footer>
-    <div class="stats">
-      <div class="Retweets">
-        <strong>107</strong> Retweets
+  <h1>Dominic's Survey Form</h1>
+  <p>Thank you for taking the time to help us improve the platform </p>
+  <form id="survey-form" action="">
+    <div class="row-tab">
+      <div class="label-burger">
+        <label for="">Name:</label>
       </div>
-      <div class="likes">
-        <strong>431</strong> Likes
+      <div class="input-burger">
+        <input type="text" placeholder="Name">
       </div>
     </div>
-    <div class="cta">
-      <button class="share-btn">Share</button>
-      <button class="retweet-btn">Retweet</button>
-      <button class="like-btn">Like</button>
+    <div class="row-tab">
+      <div class="label-burger">
+        <label for="">Age:</label>
+      </div>
+      <div class="input-burger">
+        <input type="number" placeholder="Age">
+      </div>
+    </div> <div class="row-tab">
+      <div class="label-burger">
+        <label for="">Email:</label>
+      </div>
+      <div class="input-burger">
+        <input type="email" placeholder="email">
+      </div>
     </div>
-  </footer>
+    <div class="row-tab">
+      <div class="label-select">
+        <label for="">Which option best describes your current role? </label>
+      </div>
+      <div class="select-input">
+        <select>
+          <option value="student">Student</option>
+          <option value="fulltimejob">Full Time Job</option>
+          <option value="fulltimelearner">Full Time Learner</option>
+          <option value="prefernottosay" selected>Prefer not to say</option>
+          <option value="other" selected>Other</option>
+        </select>
+      </div>
+    </div>
+    <div class="row-tab">
+      <div class="labels-radio">
+        Would you recommend freeCodeCamp to a friend?
+      </div>
+      <div class="input-radio">
+        <div>
+          <label for="">
+            Definitely
+            <input type="radio" name="recommend">
+          </label>
+        </div>
+        <div>
+          <label for="">
+            Maybe
+            <input type="radio" name="recommend">
+          </label>
+        </div>
+        <div>
+          <label for="">
+            Not sure
+            <input type="radio" name="recommend">
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="row-tab">
+      <div class="checkbox-labels">
+        <label for="">What would you like to see improved?</label>
+      </div>
+      <div class="checkbox-input">
+        <div>
+          <label for="">
+            Front-end Projects
+            <input type="checkbox">
+          </label>
+        </div>
+        <div>
+          <label for="">
+            Front-end Projects
+            <input type="checkbox">
+          </label>
+        </div>
+        <div>
+          <label for="">
+            Front-end Projects
+            <input type="checkbox">
+          </label>
+        </div>
+      </div>
+      <div class="row-tab">
+        <textarea name="" id="" cols="30" rows="10">Enter yor comments here...</textarea>
+      </div>
+      <div class="row-tab">
+        <button>Submit</button>
+      </div>
+    </div>
+  </form>
 
   <!-- Add your javascripts here -->
-  <script src="js/vendor/modernizr-3.8.0.min.js"></script>
+  <!--<script src="js/vendor/modernizr-3.8.0.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
   <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+  <script src="js/main.js"></script>-->
 </body>
 </html>
