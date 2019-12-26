@@ -1,4 +1,37 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+
+## Day 17 - Round 1
+#### December 25, 2019
+
+## Today's Progress:
+ Started two free html, css, javascript courses @ www.udemy.com wich I found [@Udemy_Coupons1](https://twitter.com/Udemy_Coupons1)The first was created by [Anjali Singh](https://www.udemy.com/user/1dd78b63-73f9-40e4-b3d5-f5b49059d703/) the second by [@jamesqquick](https://twitter.com/jamesqquick). Thank you for that! Finished the first course. Than I started a Quiz App project during the second course. 
+ 
+ Finished this day with a nice little javascript certification from www.SoloLearn.com.
+
+## Thoughts
+	The first course at UDEMY was a verry short and basic course. I earned a certification. I was a bit disappointed, because the content was verry small. 
+
+## Tutorials
+- ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- finished ALL tutorials
+	- started the 'JavaScript Algorithms and Data Structures' Certification, Finished some of the basic lessons. 
+
+- ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
+	- finished the C#, HTML, CSS and JavaScript tutorials.
+
+- ### My Courses at [UDEMY](https://www.udemy.com/)
+	- [x] Best HTML Course for Beginners from Basic to Advance
+	- [ ] Build a Quiz App with HTML, CSS, and JavaScript ls (started)
+
+## Projects
+- ### Quiz App
+	started a new project during the second UDEMY course.
+
+## Links to work:
+| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
+
 ## Day 16 - Round 1
 #### December 24, 2019
 
