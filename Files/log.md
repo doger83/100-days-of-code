@@ -1,25 +1,60 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 18 - Round 1
+#### December 26, 2019
+
+## Today's Progress:
+ Today I started doing some of the Basic JavaScript lessons on www.freeCodeCamp.org. Later I created a first pure sceleton page for the Survey Form project. Then I updated my Log and finished the day with some lessons at the jQuery tutorial at www.soloLearn.com. 
+
+## Tutorials
+- ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- finished ALL tutorials
+	
+		TODO: fnish all of the 5 projects till 31.12.2019 ! 
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- Finished some of the basic lessons. 
+
+- ### My Courses at [SoloLearn](https://www.sololearn.com)
+	- Started the jQuery Tutorial and did some of the first lessons.
+
+- ### Build a Quiz App with HTML, CSS, and JavaScript at [UDEMY](https://www.udemy.com)
+	- Finished the first lesson. 
+
+## Projects
+- ### Survey Form
+	- Finished the pure sceleton page. Didn't pass all the Tests.
+		TODO: Pass all the Tests!
+
+## Links to work:
+| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
+
 ## Day 17 - Round 1
 #### December 25, 2019
 
 ## Today's Progress:
- Started two free html, css, javascript courses @ www.udemy.com wich I found [@Udemy_Coupons1](https://twitter.com/Udemy_Coupons1)The first was created by [Anjali Singh](https://www.udemy.com/user/1dd78b63-73f9-40e4-b3d5-f5b49059d703/) the second by [@jamesqquick](https://twitter.com/jamesqquick). Thank you for that! Finished the first course. Than I started a Quiz App project during the second course. 
+ Started two free HTML, CSS, JavaScript courses @ www.udemy.com wich I found [@Udemy_Coupons1](https://twitter.com/Udemy_Coupons1). The first was created by [Anjali Singh](https://www.udemy.com/user/1dd78b63-73f9-40e4-b3d5-f5b49059d703/) the second by [@jamesqquick](https://twitter.com/jamesqquick). Thank you for that! 
  
- Finished this day with a nice little javascript certification from www.SoloLearn.com.
+ I completed the first course and than started a Quiz App project during the second course. 
+ 
+ Finished this day with a nice little JavaScript certification from www.SoloLearn.com.
 
 ## Thoughts
-	The first course at UDEMY was a verry short and basic course. I earned a certification. I was a bit disappointed, because the content was verry small. 
+	The first course at UDEMY was a verry short and basic course. 
+	I earned a certification. I was a bit disappointed, because the 
+	content was verry small. 
 
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
 	- finished ALL tutorials
 	- started the 'JavaScript Algorithms and Data Structures' Certification, Finished some of the basic lessons. 
 
-- ### My Courses at [SoloLearn](https://www.sololearn.com/Profile/16696645)
+- ### My Courses at [SoloLearn](https://www.sololearn.com)
 	- finished the C#, HTML, CSS and JavaScript tutorials.
 
-- ### My Courses at [UDEMY](https://www.udemy.com/)
+- ### My Courses at [UDEMY](https://www.udemy.com)
 	- [x] Best HTML Course for Beginners from Basic to Advance
 	- [ ] Build a Quiz App with HTML, CSS, and JavaScript ls (started)
 
