@@ -1,5 +1,32 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 19 - Round 1
+#### December 27, 2019
+
+## Today's Progress:
+ Today I had to work on my Tribute Page, cause it does NOT pass all tests. 
+
+ **Now it does!**	
+
+## Tutorials
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	- Did some of the basic lessons. 
+
+- ### My Courses at [SoloLearn](https://www.sololearn.com)
+	- Did some of the first lessons.
+
+## Projects
+- ### Survey Form
+	- Tribute Page is passing now the tests.
+
+## TODO
+- fnish all of the 5 projects till 31.12.2019 !
+- make the Tribute Page MORE responsive.
+
+## Links to work:
+| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 18 - Round 1
 #### December 26, 2019
 
