@@ -20,8 +20,8 @@
 	Now passing all the tests.
 
 ## TODO
-- [] finish all of the 5 projects till 31.12.2019 !
-- [] make the pages MORE responsive.
+- [ ] finish all of the 5 projects till 31.12.2019 !
+- [ ] make the pages MORE responsive.
 
 ## Links to work:
 | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
