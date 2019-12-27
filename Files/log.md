@@ -4,7 +4,7 @@
 #### December 26, 2019
 
 ## Today's Progress:
- Today I started doing some of the Basic JavaScript lessons on www.freeCodeCamp.org. Later I created a first pure sceleton page for the Survey Form project. Then I updated my Log and finished the day with some lessons at the jQuery tutorial at www.soloLearn.com. 
+ Today I started doing some of the Basic JavaScript lessons on www.freeCodeCamp.org. Later I created a first pure sceleton page for the Survey Form project. Then I updated my Log and finished the day with some lessons of the jQuery tutorial at www.soloLearn.com. 
 
 ## Tutorials
 - ### Responsive Web Design Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
