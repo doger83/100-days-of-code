@@ -1,242 +1,46 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
     <title>Tribute Page</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css?family=Raleway');
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="apple-touch-icon" href="icon.png">
+    <!--Place favicon.ico in the root directory-->
 
-        * {
-            margin: 0;
-            padding: 0;
-        }
+    <link href="css/style.css" rel="stylesheet" />
+    <meta name="theme-color" content="#fafafa">
 
-        body {
-            background: url(images/Background.jpg);
-            background-repeat: no-repeat;
-            background-position: center top;
-            background-attachment: fixed;
-            background-size: cover;
-            font-family: "Roboto Condensed";
-            height: 100%;
-            width: 100%;
-            color: white;
-        }
-
-        #info-button {
-        }
-
-            #info-button a {
-                color: white;
-                font-size: 12px;
-                background: #C07548;
-                opacity: .8;
-            }
-
-                #info-button a:hover {
-                    opacity: 1;
-                }
-
-        .container {
-            max-width: 1000px;
-            min-width: 600px;
-            width: 100%;
-            margin: 20px auto;
-            position: relative;
-            background: rgba(77,77,77,.5);
-            padding: 10px;
-            box-sizing: border-box;
-            border-radius: 5px;
-        }
-
-        .line {
-            width: 50%;
-            border-bottom: 2px solid white;
-            margin: 10px auto;
-        }
-
-        .name {
-            color: white;
-            font-size: 46px;
-            font-weight: 800;
-            text-align: center;
-            text-shadow: 1px 1px 2px black;
-            font-family: "Roboto Condensed", sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        #main-info {
-            border-bottom: 4px solid rgba(255,255,255,.6);
-            padding: 10px;
-        }
-
-        #image-container {
-            margin: 0 auto;
-            height: 240px;
-            width: 240px;
-            border: 6px solid #65a968;
-            border-radius: 50%;
-            overflow: hidden;
-            position: relative;
-        }
-
-        #image-filter {
-            width: 100%;
-            height: 100%;
-            opacity: .2;
-            position: absolute;
-            top: 0;
-        }
-
-        #image {
-            height: 250px;
-            width: 250px;
-            background-image: url(images/Me.jpg);
-            background-position: center;
-            background-size: cover;
-        }
-
-        .main-text {
-            text-align: center;
-            width: 100%;
-            color: white;
-            text-shadow: 1px 1px 2px black;
-            margin: 5px;
-        }
-
-        .text {
-            border: 2px solid white;
-            border-left: none;
-            height: 240px;
-            width: 360px;
-            background: #2e2e2e;
-            color: white;
-        }
-
-        #timeline {
-            /*font-family: "Raleway";*/
-            margin: 0 15px;
-            padding: 10px;
-            box-sizing: border-box;
-            width: auto;
-        }
-
-        .item {
-            margin: 20px 0;
-            background: rgba(255,255,255,.1);
-            background: white;
-            color: black;
-        }
-
-        .date {
-            font-size: 22px;
-            font-weight: bold;
-            text-align: center;
-            border-bottom: 1px solid #cdcdcd;
-            padding: 14px;
-            box-sizing: border-box;
-            background: #65a968;
-            color: white;
-        }
-
-        .timeline-title {
-            margin-top: 30px;
-            font-size: 36px;
-            text-align: center;
-            width: 100%;
-        }
-
-        #quotes {
-            max-width: 500px;
-            width: 100%;
-            margin: 10px auto;
-            padding: 10px;
-            box-sizing: border-box;
-            background: rgba(0,0,0,.2);
-            border: 2px solid rgba(255,255,255,1);
-            height: 50px;
-            border-radius: 8px;
-            display: table;
-        }
-
-        #text {
-            display: table-cell;
-            vertical-align: middle;
-            font-size: 14px;
-            font-family: "Raleway";
-            text-align: center;
-            letter-spacing: 1.1px;
-            text-shadow: 1px 1px 2px black;
-        }
-
-        .info {
-            font-family: Tahoma;
-            font-size: 16px;
-            box-sizing: border-box;
-            width: 50%;
-            margin: 0 auto;
-            text-align: left;
-            letter-spacing: 0px;
-            padding: 15px 0;
-            font-weight: 500;
-        }
-
-        #learn {
-            width: 400px;
-            min-width: 300px;
-            margin: 0 auto;
-        }
-
-        a {
-            text-decoration: none;
-            color: white;
-            text-align: center;
-            display: block;
-            font-size: 22px;
-            background: #C07548;
-            padding: 10px;
-        }
-
-        #learn a:hover {
-            color: rgba(255,255,255,0.8);
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 0;
-                margin: 0;
-            }
-
-            .item {
-                margin: 5px 0;
-                width: 100%;
-            }
-
-            #timeline {
-                margin: 0;
-                padding: 2px;
-            }
-        }
-    </style>
 </head>
 <body>
-    <div class="container">
+    <!--[if IE]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    <!-- Add your site or application content here -->
+
+    <div id="main" class="container">
         <div id="main-info">
-            <div id="image-container">
-                <div id="image-filter"></div>
-                <div id="image"></div>
+            <div id="img-div">
+
+                <div id="image">
+                    <img src="/img/Me.jpg" alt="That's me.">
+                </div>
+                <div id="img-caption">
+                    <p>davds bnfgngfvdsvdsv</p>
+                </div>
             </div>
             <div id="quotes">
                 <div id="text">
                     "Speak softly and carry a big stick; you will go far."
                 </div>
             </div>
-            <h1 class="name">Dominic Gerweck</h1>
+            <h1 id="title" class="name">Dominic Gerweck</h1>
             <h2 class="main-text">~ Born ~</h2>
             <div id="dob" class="main-text"><h3>April 10, 1983</h3></div>
             <div class="line"></div>
-            <div id="pres" class="main-text">
+            <div id="tribute-info" class="main-text">
                 <h2>
                     well trained draftsman <br /> in the field of architecture
                 </h2>
@@ -254,9 +58,16 @@
         <div id="timeline">
         </div>
         <div id="learn">
-            <a href="https://www.dominic-gerweck.de">Learn more about Dominic Gerweck</a>
+            <a id="tribute-link" href="https://www.dominic-gerweck.de" target="_blank">Learn more about Dominic Gerweck</a>
         </div>
     </div>
+
+    <!-- Add your javascripts here -->
+    <script src="js/vendor/modernizr-3.8.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="JavaScript.js"></script>
 </body>
 </html>
-<script src="JavaScript.js"></script>
