@@ -10,18 +10,18 @@
 
 ## Tutorials
 - ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
-	- Did some of the basic lessons. 
+	Did some of the basic lessons. 
 
 - ### My Courses at [SoloLearn](https://www.sololearn.com)
-	- Did some of the first lessons.
+	Did some of the first lessons.
 
 ## Projects
 - ### Tribute Page
 	Now passing all the tests.
 
 ## TODO
-- fnish all of the 5 projects till 31.12.2019 !
-- make the Tribute Page MORE responsive.
+- [] finish all of the 5 projects till 31.12.2019 !
+- [] make the pages MORE responsive.
 
 ## Links to work:
 | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
