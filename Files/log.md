@@ -16,8 +16,8 @@
 	- Did some of the first lessons.
 
 ## Projects
-- ### Survey Form
-	- Tribute Page is passing now the tests.
+- ### Tribute Page
+	Now passing all the tests.
 
 ## TODO
 - fnish all of the 5 projects till 31.12.2019 !
