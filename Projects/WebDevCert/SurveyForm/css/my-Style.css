@@ -1,0 +1,40 @@
+html {
+  border: 1px solid violet;
+}
+
+head {
+  border: 1px solid yellow;
+}
+
+body {
+  border: 1px solid blue;
+}
+
+
+
+form {
+  border: 1px solid green;
+}
+
+div {
+  border: 1px solid red;
+}
+
+h1 {
+  font-family: Lobster, monospace;
+}
+
+p {
+  font-size: 16px;
+  font-family: monospace;
+}
+
+.smaller-image {
+  width: 250px;
+}
+
+.img-border {
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+}
