@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
 html {
   border: 1px solid violet;
 }
@@ -7,34 +9,92 @@ head {
 }
 
 body {
-  border: 1px solid blue;
+  border: 2px solid blue;
+  font-family: 'Shadows Into Light', monospace;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 
 
 form {
-  border: 1px solid green;
+  border: 2px solid green;
+  margin: 15px;
+  padding: 15px;
+  width: auto;
 }
 
 div {
-  border: 1px solid red;
+  border: 2px solid red;
 }
 
 h1 {
-  font-family: Lobster, monospace;
 }
 
 p {
-  font-size: 16px;
-  font-family: monospace;
+  font-size: 18px;
 }
 
-.smaller-image {
+.red-text {
+  color: red;
+}
+
+.img-small {
   width: 250px;
+  border-radius: 50%;
+}
+
+.img-large {
+  width: 450px;
+  border-radius: 15%;
 }
 
 .img-border {
-  border-color: green;
+  border-color: #1D385E;
   border-width: 10px;
   border-style: solid;
+}
+
+.img-shadow {
+}
+
+.thanks {
+  width: 450px;
+  border: solid 2px black;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 15px auto;
+  text-align: center;
+  background-color: white;
+}
+
+#survey-form {
+  width: 600px;
+  color: aliceblue;
+  background-color: #1D385E;
+  border-radius: 25px;
+  margin: auto;
+  padding: 50px;
+}
+
+.row-tab {
+  width: auto;
+  margin: auto;
+  text-align: left;
+}
+
+.background-img {
+  background-image: url('/img/main-background1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+input {
+  background-color: antiquewhite;
+  width: 100%;
+  border: 2px solid black;
+  padding: 0;
+  margin: 10px 0px;
 }
