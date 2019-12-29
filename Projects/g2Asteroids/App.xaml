@@ -1,0 +1,12 @@
+﻿<Application x:Class="g2Asteroids.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:g2Asteroids"
+             StartupUri="MainWindow.xaml"
+             
+    >
+
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>
