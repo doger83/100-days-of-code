@@ -137,7 +137,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "QuizAApp", "Projects\QuizAA
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g2Asteroids", "Projects\g2Asteroids\g2Asteroids\g2Asteroids.csproj", "{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g2Asteroids", "Projects\g2Asteroids\g2Asteroids.csproj", "{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
