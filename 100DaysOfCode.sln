@@ -137,6 +137,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "QuizAApp", "Projects\QuizAA
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g2Asteroids", "Projects\g2Asteroids\g2Asteroids\g2Asteroids.csproj", "{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,18 @@ Global
 		{06B32BD2-23C1-4401-B30A-729F8F87CCB2}.Release|x64.Build.0 = Debug|Any CPU
 		{06B32BD2-23C1-4401-B30A-729F8F87CCB2}.Release|x86.ActiveCfg = Debug|Any CPU
 		{06B32BD2-23C1-4401-B30A-729F8F87CCB2}.Release|x86.Build.0 = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Debug|x64.Build.0 = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Debug|x86.Build.0 = Debug|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Release|x64.ActiveCfg = Release|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Release|x64.Build.0 = Release|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Release|x86.ActiveCfg = Release|Any CPU
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +302,7 @@ Global
 		{BF129530-1397-450A-B69D-9E3DF960161A} = {797C0B0D-16A6-4055-829F-43D15360823E}
 		{071E1288-B104-43E1-894D-5A9F871CEDDE} = {797C0B0D-16A6-4055-829F-43D15360823E}
 		{06B32BD2-23C1-4401-B30A-729F8F87CCB2} = {797C0B0D-16A6-4055-829F-43D15360823E}
+		{5EBCE455-AFE6-41C2-AC18-E03AEDC5385B} = {797C0B0D-16A6-4055-829F-43D15360823E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0F19343-8185-4A9F-9165-0EA8544BC925}
