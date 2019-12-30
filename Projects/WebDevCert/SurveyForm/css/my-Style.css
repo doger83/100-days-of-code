@@ -5,63 +5,156 @@ Base styles
 ==========================================================================*/
 
 :root {
-  --default-color: gray;
+  --default-color: yellow;
 }
 
 html {
-  border: 1px solid violet;
+  /*border: 1px solid violet;*/
 }
 
 header {
-  background-color: blue;
-  border: 1px solid yellow;
+  background-color: deepskyblue;
+  border: 1px solid blue;
 }
 
 body {
-  background-color: var(--default-color, white);
-  border: 2px solid blue;
-  font-family: 'Shadows Into Light', monospace;
-  text-align: center;
-  padding: 0px;
+  background-color: #f4f4f4;
+  border: 2px solid #555555;
+  /*font-family: 'Shadows Into Light', monospace;*/
+  /*text-align: center;*/
+  font: normal 16px Arial, Helvetica, sans-serif;
+  line-height: 1.6em;
+  margin: 0;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+  a:hover {
+    color: orangered;
+  }
+
+  a:active {
+    color: green;
+  }
+
+  a:visited {
+    color: yellow;
+  }
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.box-1 {
+  background-color: #333;
+  color: #fff;
+  border: 5px solid red;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+  .box-1 h1 {
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+  }
+
+.box-2 {
+  border: 3px dotted lightgray;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.categories {
+  border: 3px solid #ccc;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+  .categories h2 {
+    text-align: center;
+  }
+
+  .categories ul {
+    padding: 0;
+    padding-left: 45px;
+    list-style: square;
+    list-style: none;
+  }
+
+  .categories li {
+    padding-bottom: 6px;
+    border-bottom: dotted 1px #333;
+    list-style-image: url('../img/checkmark.png');
+  }
+
+@media (max-width: 400px) {
+
+  body {
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .box-1 {
+    background-color: slategray;
+    color: orangered;
+    border: 3px solid orangered;
+  }
+
+    .box-1 h1 {
+      line-height: 1.5em;
+    }
+}
+
 
 
 
 form {
-  background-color: blueviolet;
-  border: 2px solid green;
-  margin: 15px;
+  background-color: violet;
+  border: 2px solid blueviolet;
+  /*margin: 15px;
   padding: 15px;
-  width: auto;
+  width: auto;*/
 }
 
 div {
-  background-color: yellowgreen;
-  border: 2px solid red;
+  /*background-color: yellowgreen;
+  border: 2px solid red;*/
 }
 
 h1 {
 }
 
 p {
-  font-size: 18px;
+  /*background-color: #f4f4f4;*/
+  /*line-height: 1.6em;*/
 }
 /*==========================================================================
 id styles
 ==========================================================================*/
 #header {
-  border: 1px solid red;
-  padding: 5px;
-  margin: auto;
+  /*border: 1px solid red;
+  padding: 5px;*/
+  /*margin: auto;*/
 }
 
 #survey-form {
-  width: 450px;
+  /*width: 450px;
   color: aliceblue;
-  /*background-color: #1D385E;*/
+  background-color: #1D385E;
   border-radius: 25px;
   margin: auto;
-  padding: 50px;
+  padding: 50px;*/
 }
 /*==========================================================================
 Class styles
@@ -69,84 +162,84 @@ Class styles
 
 
 .red-text {
-  color: red;
+  /*color: red;*/
 }
 
 .img-div {
-  display: grid;
+  /*display: grid;
   width: 450px;
   margin: auto;
-  padding: 50px;
+  padding: 50px;*/
 }
 
 .img-small {
-  width: 50%;
+  /*width: 50%;
   margin: auto;
-  border-radius: 50%;
+  border-radius: 50%;*/
 }
 
 .img-large {
-  width: 450px;
+  /*width: 450px;
   margin: auto;
-  border-radius: 15%;
+  border-radius: 15%;*/
 }
 /*TODO::after address Grid-template grid-area*/
 .img-border {
-  border-color: #1D385E;
+  /*border-color: #1D385E;
   border-width: 10px;
-  border-style: solid;
+  border-style: solid;*/
 }
 
 .img-shadow {
 }
 
 .thanks {
-  width: 50%;
+  /*width: 50%;
   border: solid 2px black;
   border-radius: 10px;
   padding: 5px;
   margin: auto;
   text-align: center;
-  background-color: white;
+  background-color: white;*/
 }
 
 
 
 .row-tab {
-  width: auto;
+  /*width: auto;
   margin: auto;
-  text-align: left;
+  text-align: left;*/
 }
 
 .background-img {
-  background-image: url('/img/main-background1.jpg');
+  /*background-image: url('/img/main-background1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 input, option {
-  background-color: white;
+  /*background-color: white;
   border: 2px solid black;
   padding: 5px;
   margin: 10px 0px;
-  text-align: left;
+  text-align: left;*/
 }
 /*==========================================================================
 Attribute styles
 ==========================================================================*/
 [type='radio'] {
-  margin: 15px auto 15px auto;
+  /*margin: 15px auto 15px auto;*/
 }
 
 [type='checkbox'] {
-  margin: 1.25em auto 1.25em auto;
+  /*margin: 1.25em auto 1.25em auto;*/
 }
 /*==========================================================================
 Media queries
 ==========================================================================*/
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   :root {
   }
 
@@ -160,4 +253,4 @@ Media queries
     background-color: deepskyblue;
     border: 2px solid red;
   }
-}
+}*/
