@@ -41,7 +41,7 @@ a {
   }
 
   a:visited {
-    color: yellow;
+    
   }
 
 .container {
@@ -49,6 +49,16 @@ a {
   margin: auto;
 }
 
+.button{
+  background-color: #333;
+  color: white;
+  padding: 10px 15px;
+  border: none;  
+}
+.button:hover{
+  background:red;
+  color:#fff;
+}
 .box-1 {
   background-color: #333;
   color: #fff;
@@ -96,9 +106,28 @@ a {
     list-style-image: url('../img/checkmark.png');
   }
 
-@media (max-width: 400px) {
+.my-form {
+  padding: 20px;
+  margin-right: 20px;
+}
 
+  .my-form .form-group {
+    padding-bottom: 15px;
+  }
+
+  .my-form label {
+    display: block;
+  }
+
+  .my-form input[type="text"], .my-form textarea {
+    padding: 8px;
+    width: 100%;
+  }
+
+
+@media (max-width: 400px) {
   body {
+    padding: 10px;
   }
 
   .container {
@@ -110,136 +139,137 @@ a {
     color: orangered;
     border: 3px solid orangered;
   }
-
+  .my-form {
+    padding: 10px;
+    margin-right: 20px;
+  }
     .box-1 h1 {
       line-height: 1.5em;
     }
 }
 
 
-
-
-form {
+/*form {
   background-color: violet;
   border: 2px solid blueviolet;
-  /*margin: 15px;
+  margin: 15px;
   padding: 15px;
-  width: auto;*/
+  width: auto;
 }
 
 div {
-  /*background-color: yellowgreen;
-  border: 2px solid red;*/
+  background-color: yellowgreen;
+  border: 2px solid red;
 }
 
 h1 {
 }
 
 p {
-  /*background-color: #f4f4f4;*/
-  /*line-height: 1.6em;*/
+  background-color: #f4f4f4;
+  line-height: 1.6em;
 }
-/*==========================================================================
+==========================================================================
 id styles
-==========================================================================*/
+==========================================================================
 #header {
-  /*border: 1px solid red;
-  padding: 5px;*/
-  /*margin: auto;*/
+  border: 1px solid red;
+  padding: 5px;
+  margin: auto;
 }
 
 #survey-form {
-  /*width: 450px;
+  width: 450px;
   color: aliceblue;
   background-color: #1D385E;
   border-radius: 25px;
   margin: auto;
-  padding: 50px;*/
+  padding: 50px;
 }
-/*==========================================================================
+==========================================================================
 Class styles
-==========================================================================*/
+==========================================================================
 
 
 .red-text {
-  /*color: red;*/
+  color: red;
 }
 
 .img-div {
-  /*display: grid;
+  display: grid;
   width: 450px;
   margin: auto;
-  padding: 50px;*/
+  padding: 50px;
 }
 
 .img-small {
-  /*width: 50%;
+  width: 50%;
   margin: auto;
-  border-radius: 50%;*/
+  border-radius: 50%;
 }
 
 .img-large {
-  /*width: 450px;
+  width: 450px;
   margin: auto;
-  border-radius: 15%;*/
+  border-radius: 15%;
 }
-/*TODO::after address Grid-template grid-area*/
+TODO::after address Grid-template grid-area
 .img-border {
-  /*border-color: #1D385E;
+  border-color: #1D385E;
   border-width: 10px;
-  border-style: solid;*/
+  border-style: solid;
 }
 
 .img-shadow {
 }
 
 .thanks {
-  /*width: 50%;
+  width: 50%;
   border: solid 2px black;
   border-radius: 10px;
   padding: 5px;
   margin: auto;
   text-align: center;
-  background-color: white;*/
+  background-color: white;
 }
 
 
 
 .row-tab {
-  /*width: auto;
+  width: auto;
   margin: auto;
-  text-align: left;*/
+  text-align: left;
 }
 
 .background-img {
-  /*background-image: url('/img/main-background1.jpg');
+  background-image: url('/img/main-background1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;*/
+  background-size: cover;
 }
 
 input, option {
-  /*background-color: white;
+  background-color: white;
   border: 2px solid black;
   padding: 5px;
   margin: 10px 0px;
-  text-align: left;*/
+  text-align: left;
 }
-/*==========================================================================
+==========================================================================
 Attribute styles
-==========================================================================*/
+==========================================================================
 [type='radio'] {
-  /*margin: 15px auto 15px auto;*/
+  margin: 15px auto 15px auto;
 }
 
 [type='checkbox'] {
-  /*margin: 1.25em auto 1.25em auto;*/
+  margin: 1.25em auto 1.25em auto;
 }
-/*==========================================================================
+==========================================================================
 Media queries
-==========================================================================*/
+==========================================================================
 
-/*@media (max-width: 600px) {
+@media (max-width: 600px) {
   :root {
   }
 
@@ -251,6 +281,6 @@ Media queries
 
   div {
     background-color: deepskyblue;
-    border: 2px solid red;
-  }
-}*/
+    border: 2px solid red;*/
+
+
