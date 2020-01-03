@@ -160,7 +160,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PersonalPortfolio(4)", "..\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyTemplates", "MyTemplates\", "{FBF6E043-BC59-46EF-8414-E49247CEA310}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_57889"
 		Debug.AspNetCompiler.PhysicalPath = "MyTemplates\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57889\"
