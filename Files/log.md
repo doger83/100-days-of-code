@@ -1,5 +1,40 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 20 - Round 1
+#### December 28, 2019
 
+## Today's Progress:
+
+Today I started with 3 JavaScript lessons at freeCodeCamp.org. Than I spent 3 hours doing the CSS tutorials again and work on my SurveyForm project. 
+
+	Learned how to add images in a .md file. Find daily images now down below in the "Daily Image" sections.
+
+## Tutorials
+Do at least on lesson a day!
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished 3 lessons:	
+	- [x] Word Blanks
+	- [x] Store Multiple Values in one Variable using JavaScript Arrays
+	- [x] Nest one Array within Another Array
+
+## Projects
+- ### Tribute Page
+	- [x] added color theme
+	- [x] added .gitignore
+	- [x] updated libraries
+
+
+## Daily Image
+
+<p align="center">  
+  <img src="..\Files\images\100XCode_image.jpg" width="auto" title="daily image"alt="daily image">
+</p>
+
+[image file](..\Files\images\100XCode_image.jpg)
+
+## Links to work:
+| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 19 - Round 1
 #### December 27, 2019
 
