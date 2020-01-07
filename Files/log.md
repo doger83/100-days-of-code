@@ -3,10 +3,7 @@
 #### January 07, 2020
  
 ## Today's Progress:
-At first I updated my Log.md. Then I cleaned my repos on GitHub.
-
-## Projects
-- ### 
+First I updated my Log. Then I cleaned up my repos on GitHub. I moved every project to a single repo. Not much coding.
 
 ## Tutorials
 
@@ -16,6 +13,7 @@ At first I updated my Log.md. Then I cleaned my repos on GitHub.
 	- [x] Global Scope and Functions
 
 ## TODO
+One less, there were now one left.
 
 - [x] update my log! (finished)
 - [ ] finish the web cert projects! (under progress)
@@ -24,11 +22,12 @@ At first I updated my Log.md. Then I cleaned my repos on GitHub.
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files/images/Day 29 Progress.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 30 Github_Contributions2019.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
-## Links to work:
-| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](https://www.dominic-gerweck.de) |
+## Links to my work:
+
+ | [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [TODO](todo.md) | 
 
 ---
 ## Day 29 - Round 1
