@@ -1,5 +1,0 @@
-AuthType Basic
-AuthName "Zugriff auf Curriculum"
-AuthUserFile /is/htdocs/wp11117869_4B1YJL4EH7/www/gerweck2.de/en-en/.htpasswd
-AuthGroupFile /..../.htgroup
-require user Gast

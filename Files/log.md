@@ -1,4 +1,36 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 30 - Round 1
+#### January 07, 2020
+ 
+## Today's Progress:
+At first I updated my Log.md. Then I cleaned my repos on GitHub.
+
+## Projects
+- ### 
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:
+		
+	- [x] Global Scope and Functions
+
+## TODO
+
+- [x] update my log! (finished)
+- [ ] finish the web cert projects! (under progress)
+
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files/images/Day 29 Progress.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](https://www.dominic-gerweck.de) |
+
+---
 ## Day 29 - Round 1
 #### January 06, 2020
  
@@ -31,7 +63,7 @@ Had an appointment with the dentist. Worked only one hour on my g2Asteroid proje
 </p>
 
 ## Links to work:
-| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](https://www.dominic-gerweck.de) |
 
 ---
 ## Day 28 - Round 1
