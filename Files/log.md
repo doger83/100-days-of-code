@@ -1,4 +1,36 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 21 - Round 1
+#### December 29, 2019
+
+## Today's Progress:
+
+Today I added "[g2Asteroids](https://github.com/doger83/g2Asteroids)" WPF-Application to my projects. 
+
+	This is a little game I started 
+	developing during my first c# lessons.
+
+## Tutorials
+Do at least on lesson a day!
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished 1 lessons:	
+	- [x] Access Array Data with Indexes
+
+## Projects
+- ### g2Asteroid (WPF App)
+	- [x] initialize g2Asteroids WPF game
+	- [x] updated solution
+	- [x] updated libraries
+
+## Daily Image
+
+<p align="center">  
+  <img src="Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 20 - Round 1
 #### December 28, 2019
 
@@ -23,7 +55,6 @@ Do at least on lesson a day!
 	- [x] added color theme
 	- [x] added .gitignore
 	- [x] updated libraries
-
 
 ## Daily Image
 
