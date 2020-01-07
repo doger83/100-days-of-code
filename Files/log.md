@@ -59,7 +59,7 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="..\Files\images\100XCode_image.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="\Files\images\100XCode_image.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
