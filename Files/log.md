@@ -6,7 +6,9 @@
 
 Today I started with 3 JavaScript lessons at freeCodeCamp.org. Than I spent 3 hours doing the CSS tutorials again and work on my SurveyForm project. 
 
-	Learned how to add images in a .md file. Find daily images now down below in the "Daily Image" sections.
+	Learned how to add images in a .md file. 
+	
+Find daily images now down below in the "Daily Image" sections.
 
 ## Tutorials
 Do at least on lesson a day!
@@ -26,10 +28,8 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="..\Files\images\100XCode_image.jpg" width="auto" title="daily image"alt="daily image">
+  <img src="..\Files\images\100XCode_image.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
-
-[image file](..\Files\images\100XCode_image.jpg)
 
 ## Links to work:
 | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
