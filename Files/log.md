@@ -24,7 +24,7 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
