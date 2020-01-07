@@ -3,9 +3,9 @@
 #### January 2nd, 2020
  
 ## Today's Progress:
-Today I decided to create my own WebsiteTemplate
+Today I decided to create my own WebsiteTemplate.
 
-Find it [here](https://github.com/doger83/WebsiteTemplate)
+Find it [here](https://github.com/doger83/WebsiteTemplate).
 
 ## Projects
 - ### My Flexbox Template
@@ -27,7 +27,7 @@ Find it [here](https://github.com/doger83/WebsiteTemplate)
 ## Daily Image
 
 <p align="center">  
-  <img src="\Files\images\Day 25 Flexbox template.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 25 Flexbox template.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
@@ -61,7 +61,7 @@ It's 5:35am and I'm still not finished, BUT 🤗 scratch is deployed on my [Gith
 ## Daily Image
 
 <p align="center">  
-  <img src="\Files\images\Day 24-25 deploy portfolio.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 24-25 deploy portfolio.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
@@ -92,7 +92,7 @@ Today I learned how to install SASS, running it with VScode on LiveServer, and h
 ## Daily Image
 
 <p align="center">  
-  <img src="\Files\images\Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
