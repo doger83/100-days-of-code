@@ -14,7 +14,7 @@ Lost tracking. Didn't code much the last two days.. Only some tutorials
 	- [x] Manipulate Arrays With push()
 
 - ### jQuery Tutorial at [SoloLearn](https://www.sololearn.com/Course/jQuery/)
-	Today I finishedthe first basic lessons.
+	Today I finished the first basic lessons.
 
 ## TODO (2019)
 - [ ] update my log!
@@ -24,7 +24,7 @@ Lost tracking. Didn't code much the last two days.. Only some tutorials
 ## Daily Image
 
 <p align="center">  
-  <img src="Files\images\Day22-jQuery.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day22-jQuery.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
