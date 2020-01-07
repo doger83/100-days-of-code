@@ -1,4 +1,46 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 28 - Round 1
+#### January 05, 2020
+ 
+## Today's Progress:
+A little late, but the final version of my portfolio is online !!! 
+
+Find it on [here](https://www.dominic-gerweck.de).
+
+Only 4 weeks after starting this challange my web-development skills have grown so much. 
+
+This feel so amazing. I want to thank [@ka11away](https://twitter.com/ka11away) and [@freeCodeCamp](https://twitter.com/freeCodeCamp).
+ 
+🙏
+
+## Projects
+- ### Personal Portfolio Web Page 
+
+	- deployed final version v1.0
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:
+		
+	- [x] Write Reusable JavaScript with Functions
+
+## TODO
+- [x] get my portfolio online!
+- [ ] update my log! (under progress)
+- [ ] finish the web cert projects! (under progress)
+
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files/images/Day 28 portfolio_final.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 27 - Round 1
 #### January 04, 2020
  
@@ -8,7 +50,8 @@ Today I (tried) to make my portfolio responsive. It felt like styling every 'tag
 ## Projects
 - ### Personal Portfolio Web Page 
 
-	- added @media queries to make the home and about screen responsive
+	- added resume, portfolio and contact section
+	- finished basic layout, some mediaqueries left	
 
 ## Tutorials
 
