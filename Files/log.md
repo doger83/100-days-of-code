@@ -1,4 +1,39 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 26 - Round 1
+#### January 3rd, 2020
+ 
+## Today's Progress:
+I had a run. Total new layout for my portfolio page 😊.
+
+## Projects
+- ### Personal Portfolio Web Page 
+
+	- new background image for home screen
+	- new background image for about screen
+	- complete new layout for all pages
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:
+		
+	- [x] Manipulate Arrays With unshift()
+
+## TODO
+- [ ] update my log! (under progress)
+- [ ] finish the web cert projects! (under progress)
+- [ ] get my portfolio online! (under progress)
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files/images/Day 26 About Page.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 25 - Round 1
 #### January 2nd, 2020
  
