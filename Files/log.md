@@ -31,11 +31,6 @@ Do at least on lesson a day!
   <img src="..\Files\images\100XCode_image.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
-<<<<<<< HEAD
-=======
-[image file](Files/images/100XCode_image.jpg)
-
->>>>>>> ce0a7683a9459dd5add006793a939a5afa1e553c
 ## Links to work:
 | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
 
