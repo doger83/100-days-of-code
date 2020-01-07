@@ -1,5 +1,36 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 23 - Round 1
+#### December 31, 2019
+
+## Today's Progress:
+Today I learned how to install SASS, running it with VScode on LiveServer, and how to get started with Ruby and NodeJS.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:	
+	- [x] Manipulate Arrays With push()
+
+- ### online Tutorials at YouTube 
+	- [x] "How to Install SASS on Windows and How to Get Started" [by Alex](https://www.youtube.com/watch?v=PJP-CR-9YM4&feature=youtu.be)
+	- [x] "Responsive Portfolio Website [1] - Intro & Sass Workflow Setup" [by Traversy Media](https://www.youtube.com/watch?v=gYzHS-n2gqU)
+
+## TODO (2019)
+- [ ] update my log!
+- [ ] finish the web cert projects!
+- [ ] get my portfolio online!
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files\images\Day 23 Desktop.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 22 - Round 1
 #### December 30, 2019
 
@@ -58,7 +89,7 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
