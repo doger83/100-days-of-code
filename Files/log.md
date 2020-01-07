@@ -1,5 +1,33 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 24 - Round 1
+#### January 1st, 2020
+Happ New Year it is 2️⃣0️⃣2️⃣0️⃣ NOW. I think this is the future!
+ 
+## Today's Progress:
+Today I worked on my personal portfolio web page. 
+## Projects
+- ### personal Portfolio Web Page
+	- just added some movement
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:	
+	- [x] Manipulate Arrays With pop()
+
+## TODO
+- [ ] update my log! (under progress)
+- [ ] finish the web cert projects! (under progress)
+- [ ] get my portfolio online! (under progress)
+
+## Daily Image
+	no image today :(
+
+## Links to work:
+| [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 23 - Round 1
 #### December 31, 2019
 
@@ -24,7 +52,7 @@ Today I learned how to install SASS, running it with VScode on LiveServer, and h
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files\images\Day 23 Desktop.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files\images\Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
@@ -57,7 +85,7 @@ Lost tracking. Didn't code much the last two days.. Only some tutorials.
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files/images/Day22-jQuery.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day22-jQuery.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
@@ -89,7 +117,7 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 21 g2Asteroids_Startup Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
@@ -124,7 +152,7 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="\Files\images\100XCode_image.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
+  <img src="\Files\images\100XCode_image.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
