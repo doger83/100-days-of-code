@@ -87,6 +87,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SurveyForm", "..\SurveyForm
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60650"
+		SlnRelativePath = "..\SurveyForm\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage", "..\TributePage\", "{7E2870E4-D8E6-4DD1-9B66-5BA9BBA26AF8}"
@@ -107,6 +108,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TributePage", "..\TributePa
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "59522"
+		SlnRelativePath = "..\TributePage\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebsiteTemplate", "..\z-Vorlagen\WebsiteTemplate\", "{FBFD3871-AD73-4EDF-8283-5CD2CE6D0540}"
@@ -127,6 +129,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebsiteTemplate", "..\z-Vor
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62723"
+		SlnRelativePath = "..\z-Vorlagen\WebsiteTemplate\"
 	EndProjectSection
 EndProject
 Global
