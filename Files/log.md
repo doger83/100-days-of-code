@@ -1,4 +1,39 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 29 - Round 1
+#### January 06, 2020
+ 
+## Today's Progress:
+Had an appointment with the dentist. Worked only one hour on my g2Asteroid project and a little bit on my portfolio to fix spelling mistakes and stuff like that. 
+
+## Projects
+- ### Personal Portfolio Web Page 
+
+	- fixed spelling mistakes
+	- changed headings style
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:
+		
+	- [x] Passing Values to Functions with Arguments
+
+## TODO
+
+- [ ] update my log! (under progress)
+- [ ] finish the web cert projects! (under progress)
+
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files/images/Day 29 Progress.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 28 - Round 1
 #### January 05, 2020
  
@@ -7,7 +42,7 @@ A little late, but the final version of my portfolio is online !!!
 
 Find it on [here](https://www.dominic-gerweck.de).
 
-Only 4 weeks after starting this challange my web-development skills have grown so much. 
+Only 4 weeks after starting this challange, my web-development skills have grown so much. 
 
 This feel so amazing. I want to thank [@ka11away](https://twitter.com/ka11away) and [@freeCodeCamp](https://twitter.com/freeCodeCamp).
  
@@ -26,6 +61,8 @@ This feel so amazing. I want to thank [@ka11away](https://twitter.com/ka11away) 
 	- [x] Write Reusable JavaScript with Functions
 
 ## TODO
+One less, there were now two.
+
 - [x] get my portfolio online!
 - [ ] update my log! (under progress)
 - [ ] finish the web cert projects! (under progress)
