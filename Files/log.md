@@ -1,4 +1,38 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 23 - Round 1
+#### December 31, 2019
+
+## Today's Progress:
+Today I finished the jQuery tutorial and got a little [Certification](https://www.sololearn.com/Certificate/1082-16696645/pdf/) from SoloLearn
+ to warm-up for the next codingsession. 
+
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished all lessons:	
+	- [x] Manipulate Arrays With push()
+
+- ### jQuery Tutorial at [SoloLearn](https://www.sololearn.com/Course/jQuery/)
+	Today I finished all lessons with a little certification at the end.
+
+## TODO (2019)
+- [ ] update my log!
+- [ ] finish the web cert projects!
+- [ ] get my portfolio online!
+
+Lot's of work 🤯 todo for this year!
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files\images\Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 22 - Round 1
 #### December 30, 2019
 
@@ -20,6 +54,9 @@ Lost tracking. Didn't code much the last two days.. Only some tutorials
 - [ ] update my log!
 - [ ] finish the web cert projects!
 - [ ] get my portfolio online!
+
+Lot's of work 🤯 todo for this year!
+
 
 ## Daily Image
 
