@@ -1,5 +1,39 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 25 - Round 1
+#### January 2nd, 2020
+ 
+## Today's Progress:
+Today I decided to create my own WebsiteTemplate
 
+Find it [here](https://github.com/doger83/WebsiteTemplate)
+
+## Projects
+- ### My Flexbox Template
+
+	- Added Flexbox template project. Used the w3Schools Flexbox template.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:
+		
+	- [x] Manipulate Arrays With shift()
+
+## TODO
+- [ ] update my log! (under progress)
+- [ ] finish the web cert projects! (under progress)
+- [ ] get my portfolio online! (under progress)
+
+## Daily Image
+
+<p align="center">  
+  <img src="\Files\images\Day 25 Flexbox template.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 24 - Round 1
 #### January 1st, 2020
 Happ New Year it is 2️⃣0️⃣2️⃣0️⃣ NOW. I think this is the future!
@@ -7,13 +41,16 @@ Happ New Year it is 2️⃣0️⃣2️⃣0️⃣ NOW. I think this is the future
 ## Today's Progress:
 Today I worked on my personal portfolio web page. 
 ## Projects
-- ### personal Portfolio Web Page
+- ### Personal Portfolio Web Page
 	- just added some movement
+
+It's 5:35am and I'm still not finished, BUT 🤗 scratch is deployed on my [GithubPages](https://doger83.github.io/PersonalPortfolio/).
 
 ## Tutorials
 
 - ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
-	Today I finished only 1 lessons:	
+	Today I finished only 1 lessons:
+
 	- [x] Manipulate Arrays With pop()
 
 ## TODO
@@ -22,10 +59,13 @@ Today I worked on my personal portfolio web page.
 - [ ] get my portfolio online! (under progress)
 
 ## Daily Image
-	no image today :(
+
+<p align="center">  
+  <img src="\Files\images\Day 24-25 deploy portfolio.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
 
 ## Links to work:
-| [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+| [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
 
 ---
 ## Day 23 - Round 1
@@ -52,7 +92,7 @@ Today I learned how to install SASS, running it with VScode on LiveServer, and h
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files\images\Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="\Files\images\Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
