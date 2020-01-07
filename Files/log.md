@@ -1,71 +1,36 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
-## Day 23 - Round 1
-#### December 31, 2019
 
-## Today's Progress:
-Today I finished the jQuery tutorial and got a little [Certification](https://www.sololearn.com/Certificate/1082-16696645/pdf/) from SoloLearn
- to warm-up for the next codingsession. 
-
-
-## Tutorials
-
-- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
-	Today I finished all lessons:	
-	- [x] Manipulate Arrays With push()
-
-- ### jQuery Tutorial at [SoloLearn](https://www.sololearn.com/Course/jQuery/)
-	Today I finished all lessons with a little certification at the end.
-
-## TODO (2019)
-- [ ] update my log!
-- [ ] finish the web cert projects!
-- [ ] get my portfolio online!
-
-Lot's of work 🤯 todo for this year!
-
-## Daily Image
-
-<p align="center">  
-  <img src="/Files\images\Day 23 Desktop.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
-</p>
-
-## Links to work:
-| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
-
----
 ## Day 22 - Round 1
 #### December 30, 2019
 
 ## Today's Progress:
 
-Lost tracking. Didn't code much the last two days.. Only some tutorials
+Lost tracking. Didn't code much the last two days.. Only some tutorials.
 😥
 
 ## Tutorials
 
 - ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
-	Today I finished only lessons:	
-	- [x] Manipulate Arrays With push()
+	Today I finished 2 lessons:	
+	- [x] Modify Array Data With Indexes
+	- [x] Access Multi-Dimensional Arrays With Indexes
 
 - ### jQuery Tutorial at [SoloLearn](https://www.sololearn.com/Course/jQuery/)
-	Today I finished the first basic lessons.
+	I finished all lessons with a little [Certification](https://www.sololearn.com/Certificate/1082-16696645/pdf/) at the end.
 
 ## TODO (2019)
 - [ ] update my log!
 - [ ] finish the web cert projects!
 - [ ] get my portfolio online!
 
-Lot's of work 🤯 todo for this year!
-
-
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files/images/Day22-jQuery.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day22-jQuery.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
-| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+| [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
 
 ---
 ## Day 21 - Round 1
@@ -97,7 +62,7 @@ Do at least on lesson a day!
 </p>
 
 ## Links to work:
-| [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+| [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
 
 ---
 ## Day 20 - Round 1
@@ -128,7 +93,7 @@ Do at least on lesson a day!
 ## Daily Image
 
 <p align="center">  
-  <img src="\Files\images\100XCode_image.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="\Files\images\100XCode_image.jpg" width="150px" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
