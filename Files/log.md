@@ -1,4 +1,37 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
+## Day 27 - Round 1
+#### January 04, 2020
+ 
+## Today's Progress:
+Today I (tried) to make my portfolio responsive. It felt like styling every 'tag' a thousend times. 🤯
+
+## Projects
+- ### Personal Portfolio Web Page 
+
+	- added @media queries to make the home and about screen responsive
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+	Today I finished only 1 lessons:
+		
+	- [x] Shopping List
+
+## TODO
+- [ ] update my log! (under progress)
+- [ ] finish the web cert projects! (under progress)
+- [ ] get my portfolio online! (under progress)
+
+## Daily Image
+
+<p align="center">  
+  <img src="/Files/images/Day 27 Home_mobile.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+</p>
+
+## Links to work:
+| [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [GithubPage](https://doger83.github.io/PersonalPortfolio/) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](/Projects/QuizAApp) | [TODO](todo.md) | [Tribute Page](/Projects/WebDevCert/TributePage/Index.html) | [Survey Form](/Projects/WebDevCert/SurveyForm) | [Personal Portfolio](/Projects/WebDevCert/PersonalPortfolio/index.html) |
+
+---
 ## Day 26 - Round 1
 #### January 3rd, 2020
  
@@ -27,7 +60,7 @@ I had a run. Total new layout for my portfolio page 😊.
 ## Daily Image
 
 <p align="center">  
-  <img src="/Files/images/Day 26 About Page.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  <img src="/Files/images/Day 26 Home Page.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
 </p>
 
 ## Links to work:
