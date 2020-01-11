@@ -1,5 +1,54 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 34 - Round 1
+
+#### January 11, 2020
+
+## Today's Progress:
+
+Today I added bootstrap and gulp to DoubleD project. But it did't run. I had an error.
+
+    I need to learn more about bootstrap and gulp
+
+That's why I watched and read a lot today about these two topics.
+
+## Projects
+
+- ### DoubleD's Artist Website
+
+  - added bootstrap, jquery and popper.js
+  - added gul, gulp-sass and browser-sync
+
+  had errors. gulp didn' run.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished only 2 lessons:
+
+  - [x] Understanding Undefined Value returned from a Function
+  - [x] Assignment with a Returned Value
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+My full Resume.pdf
+
+<p align="left">  
+  <img src="../Files/images/Day 34 error gulp.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 33 - Round 1
 
 #### January 10, 2020
