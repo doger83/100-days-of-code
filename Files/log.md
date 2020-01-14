@@ -1,5 +1,150 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 37 - Round 1
+
+#### January 14, 2020
+
+## Today's Progress:
+
+Today I sent a lot of emails to get jobinterviews.
+
+I got the approval for a full paid retraining from my job agency today.
+
+## Projects
+
+- ### Survey Form Page
+
+  - added bootstrap, jquery and popper.js
+  - addded some style
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished 3 lessons:
+
+  - [x] Comparison with the Inequality Operator
+  - [x] Comparison with the Strict Inequality Operator
+  - [x] Comparison with the Greater Than Operator
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+62 Lessons finished
+
+<p align="left">  
+  <img src="../Files/images/Day 37 Javascript tutorial.jpg" width="75%" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
+## Day 36 - Round 1
+
+#### January 13, 2020
+
+## Today's Progress:
+
+Today was MY "lazyday". I did only a view katas on codewars to keep my c# skills in mind.
+
+```csharp
+public static string TranslateWord (string word) {
+
+            char[] phraseAsChars = word.ToCharArray();
+            int animalIndex = word.IndexOf("fox");
+            if (animalIndex != -1) {
+                phraseAsChars[animalIndex++] = 'c';
+                phraseAsChars[animalIndex++] = 'a';
+                phraseAsChars[animalIndex] = 't';
+            }
+
+            string updatedPhrase = new string(phraseAsChars);
+            return updatedPhrase;
+        }
+```
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished 5 lessons:
+
+  - [x] Understanding Boolean Values
+  - [x] Use Conditional Logic with If Statements
+  - [x] Comparison with the Equality Operator
+  - [x] Comparison with the Strict Equality Operator
+  - [x] Practice comparing different values
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+KATA on codewars.com
+
+<p align="left">  
+  <img src="../Files/images/day36_challange.JPG" width="auto" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
+## Day 35 - Round 1
+
+#### January 12, 2020
+
+## Today's Progress:
+
+Today I learned more about GULP. Had some problems with it, but I got it runing.
+
+    I could get used to it.
+    🤔
+
+## Projects
+
+- ### DoubleD's Artist Website
+
+  - GULP is now runing
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished only 1 lesson:
+
+  - [x] Stand in Line
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+GULP runing.
+
+<p align="left">  
+  <img src="../Files/images/Day 35 gulp running.jpg" width="auto" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 34 - Round 1
 
 #### January 11, 2020
@@ -17,9 +162,9 @@ That's why I watched and read a lot today about these two topics.
 - ### DoubleD's Artist Website
 
   - added bootstrap, jquery and popper.js
-  - added gul, gulp-sass and browser-sync
+  - added gulp, gulp-sass and browser-sync
 
-  had errors. gulp didn' run.
+  had errors. gulp didn't run.
 
 ## Tutorials
 
