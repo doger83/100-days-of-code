@@ -1,21 +1,76 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 38 - Round 1
+
+#### January 15, 2020
+
+## Today's Progress:
+
+Finished my SurveyForm project @freeCodeCamp. It passed all tests @CodePen.
+
+    Now I'm working on the LandingPage project..
+
+## Projects
+
+- ### Survey Form Page
+
+  - final version
+  - passed all tests
+
+- ### Product Landing Page
+
+  - project start
+  - setup workflow
+  - installed packages
+  - added Navbar
+
+It passes 7 of 16 tests.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished 5 lessons:
+
+  - [x] Comparisons with the Logical Or Operator
+  - [x] Comparisons with the Logical And Operator
+  - [x] Comparison with the Less Than Or Equal To Operator
+  - [x] Comparison with the Less Than Operator
+  - [x] Comparison with the Greater Than Or Equal To Operator
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+<p align="left">  
+  <img src="../Files/images/Day 38 Survey Form.jpg" width="75%" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 37 - Round 1
 
 #### January 14, 2020
 
 ## Today's Progress:
 
-Today I sent a lot of emails to get jobinterviews.
+Today was a short hour. Just added bootstrap4 jQuery popper.js to my freeCodeCamp SurveyForm project. Mostly tutorials.
 
-I got the approval for a full paid retraining from my job agency today.
+    I will style it tomorrow.
 
 ## Projects
 
 - ### Survey Form Page
 
-  - added bootstrap, jquery and popper.js
-  - addded some style
+  - installed bootstrap, jquery and popper.js
+  - addded "some" style
 
 ## Tutorials
 
@@ -33,10 +88,8 @@ I got the approval for a full paid retraining from my job agency today.
 
 ## Daily Image
 
-62 Lessons finished
-
 <p align="left">  
-  <img src="../Files/images/Day 37 Javascript tutorial.jpg" width="75%" margin="15px" title="daily image"alt="daily image">
+  <img src="../Files/images/Day 37 Survey Form.jpg" width="75%" margin="15px" title="daily image"alt="daily image">
   
 </p>
 
@@ -52,22 +105,28 @@ I got the approval for a full paid retraining from my job agency today.
 
 ## Today's Progress:
 
+I got the approval for a full paid retraining from my job agency today. 🤗
+
+    I just sent 10 emails to get job interviews.
+
+## Projects
+
 Today was MY "lazyday". I did only a view katas on codewars to keep my c# skills in mind.
 
 ```csharp
-public static string TranslateWord (string word) {
-
-            char[] phraseAsChars = word.ToCharArray();
-            int animalIndex = word.IndexOf("fox");
-            if (animalIndex != -1) {
-                phraseAsChars[animalIndex++] = 'c';
-                phraseAsChars[animalIndex++] = 'a';
-                phraseAsChars[animalIndex] = 't';
-            }
-
-            string updatedPhrase = new string(phraseAsChars);
-            return updatedPhrase;
-        }
+public static string TranslateWord (string word)
+  {
+    char[] phraseAsChars = word.ToCharArray();
+    int animalIndex = word.IndexOf("fox");
+    if (animalIndex != -1)
+      {
+        phraseAsChars[animalIndex++] = 'c';
+        phraseAsChars[animalIndex++] = 'a';
+        phraseAsChars[animalIndex] = 't';
+      }
+      string updatedPhrase = new string(phraseAsChars);
+      return updatedPhrase;
+  }
 ```
 
 ## Tutorials
