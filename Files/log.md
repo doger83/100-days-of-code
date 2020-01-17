@@ -1,5 +1,132 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 40 - Round 1
+
+#### January 17, 2020
+
+## Today's Progress:
+
+Yesterday was a long night @Udemy. I did two more courses.
+
+    Now off to Bremen. Take a look at WBS Trainings
+    to be continued..
+
+## Tutorials
+
+- ### Learn Basic CSS at [UDEMY](https://www.udemy.com/share/101NkVCUIYdFZSQns=/)
+
+  - [x] completed the course (see Images)
+
+- ### Learn HTML From SCRATCH at [UDEMY](https://www.udemy.com/share/102uZaCUIYdFZSQns=/)
+
+  - [x] completed the course (see Images)
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished 1 lesson:
+
+  - [x] Introducing Else If Statements
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+CSS and HTML courses at Udemy
+
+<p align="left">  
+  <img src="../Files/images/Day 40 Udemy certs.jpg" width="75%" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
+## Day 39 - Round 1
+
+#### January 16, 2020
+
+## Today's Progress:
+
+Today I solved a problem named "Popsicles" @SoloLearn. Did my daily tutorial @freeCodeCamp.
+
+I Finished this day with a little jQuery course @Udemy. It covers the basics for beginner.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+  Today I finished 1 lesson:
+
+  - [x] Introducing Else Statements
+
+- ### Learn Basic JQuery at [UDEMY](https://www.udemy.com/share/101T9ICUIYdFZSQns=/)
+  - [x] completed the course (see Images)
+
+## Coding Challenges
+
+### CodeCoach at [SoloLearn](https://www.sololearn.com/)
+
+- ### Challenge: Popsicles
+
+  You have a box of popsicles and you want to give them all away to a group of brothers and sisters. If you have enough left in the box to give them each an even amount you should go for it! If not, they will fight over them, and you should eat them yourself later.
+
+  #### Task
+
+  Given the number of siblings that you are giving popsicles to, determine if you can give them each an even amount or if you shouldn't mention the popsicles at all.
+
+  #### Input Format
+
+  Two integer values, the first one represents the number of siblings, and the second one represents the number of popsicles that you have left in the box.
+
+  #### Output Format
+
+  A string that says 'give away' if you are giving them away, or 'eat them yourself' if you will be eating them yourself.
+
+  #### Sample Input
+
+  3 9
+
+  #### Sample Output
+
+  give away
+
+  ## My Solution
+
+  ```csharp
+  if ((popsicles % siblings) == 0)
+  {
+    Console.WriteLine("give away");
+  }
+  else
+  {
+    Console.WriteLine("eat them yourself");
+  }
+  ```
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Image
+
+JQuery course at Udemy
+
+<p align="left">  
+  <img src="../Files/images/Day 39 jquery cert.jpg" width="75%" margin="15px" title="daily image"alt="daily image">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 38 - Round 1
 
 #### January 15, 2020
