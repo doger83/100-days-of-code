@@ -64,10 +64,9 @@ I started learning more about **java** @SoloLearn today.
 
 Java Tutorial
 
-<p align="left">  
-  <img src="../Files/images/Day 41 Java Sololearn.jpg" width="200px" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;">
-  
-</p>
+
+<p style="align:left"><img src="../Files/images/Day 41 Java Sololearn.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
 
 ## Links to my work:
 
