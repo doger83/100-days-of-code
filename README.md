@@ -10,10 +10,6 @@ Follow me during this challenge on
 * [FAQ](FAQ.md)
 * [Resources](Files/resources.md)
 
-## Translations
- * [deutsch](Files/intl/de/README.md) 
-
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
 ## About me:
 
@@ -25,7 +21,7 @@ Quickly I decided for the programming language "C#".
 
 In the first few weeks I have already gained a lot of practical experience in the ".net Framework" area. I've completed several online tutorials and practice daily online coding challanges.
 
-Now I want to use this 100 day chalange to apply and develop my knowledge and skills in programming.
+Now I want to use this 100 day challenge to apply and develop my knowledge and skills in programming.
 
 ## If you've decided to join:
 
