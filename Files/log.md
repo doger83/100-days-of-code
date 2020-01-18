@@ -1,5 +1,80 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 41 - Round 1
+
+#### January 18 2020
+
+## Today's Progress:
+
+I started learning more about **java** @SoloLearn today.
+
+    The first basics felt verry similar to c# 🤔
+
+## Tutorials
+
+- ### Java Tutorial at [SoloLearn](https://www.sololearn.com/Course/Java/)
+
+  - [x] Basic Concepts
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+
+  Today I finished 2 lessons:
+
+  - [x] Logical Order in If Else Statements
+  - [x] Chaining If Else Statements
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Codesnippets
+
+- ### Java
+
+  Getting User input
+
+  ```java
+  import java.util.Scanner;
+
+  class MyClass {
+    public static void main(String[ ] args) {
+      Scanner myVar = new Scanner(System.in);
+      System.out.println(myVar.nextLine());
+    }
+  }
+  ```
+
+- ### JavaScript
+
+  Chaining If Else Statements
+
+  ```javascript
+  if (condition1) {
+    // statement1
+  } else if (condition2) {
+    // statement2
+  } else if (condition3) {
+    // statement3
+  } else {
+    // statementN
+  }
+  ```
+
+## Daily Image
+
+Java Tutorial
+
+<p align="left">  
+  <img src="../Files/images/Day 41 Java Sololearn.jpg" width="75%" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;">
+  
+</p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 40 - Round 1
 
 #### January 17, 2020
