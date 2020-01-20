@@ -1,5 +1,84 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 43 - Round 1
+
+#### January 20, 2020
+
+## Today's Progress:
+
+I was very busy today. I looked at 3 training centers and came home very late. So I did only a view Tutorials @freeCodeCamp to keep the challenge running.
+
+## Thoughts
+
+The training centers are an option that I will keep in mind as an alternative.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+
+  Today I finished 4 lessons:
+
+  - [x] Replacing If Else Chains with Switch
+  - [x] Multiple Identical Options in Switch Statements
+  - [x] Adding a Default Option in Switch Statements
+  - [x] Selecting from Many Options with Switch Statements
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Codesnippets
+
+- ### JavaScript
+
+  Replacing If Else Chains with Switch
+
+  ```javascript
+  if (val === "bob") {
+    answer = "Marley";
+  } else if (val === 42) {
+    answer = "The Answer";
+  } else if (val === 1) {
+    answer = "There is no #1";
+  } else if (val === 99) {
+    answer = "Missed me by this much!";
+  } else if (val === 7) {
+    answer = "Ate Nine";
+  }
+  ```
+
+  ```javascript
+  switch (val) {
+    case "bob":
+      answer = "Marley";
+      break;
+    case 42:
+      answer = "The Answer";
+      break;
+    case 1:
+      answer = "There is no #1";
+      break;
+    case 99:
+      answer = "Missed me by this much!";
+      break;
+    case 7:
+      answer = "Ate Nine";
+      break;
+  }
+  ```
+
+## Daily Image
+
+Java Tutorial "Replacing If Else Chains with Switch"
+
+<p style="align:left"><img src="../Files/images/Day 43 JS tutorial.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 42 - Round 1
 
 #### January 19, 2020
@@ -14,7 +93,7 @@ Today I got into learning **gatsbyjs**. There are lots of plugins to learn.
 
 - ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
 
-  Today I finished 1 lessons:
+  Today I finished 1 lesson:
 
   - [x] Golf Code
 
