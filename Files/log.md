@@ -87,13 +87,13 @@ The training centers are an option that I will keep in mind as an alternative.
 
 - [ ] finish the web cert projects! (under progress)
 
-## Daily Codesnippets
+## Daily Code Snippets
 
 - ### JavaScript
 
   Replacing If Else Chains with Switch
 
-  ```javascript
+  ``` javascript
   if (val === "bob") {
     answer = "Marley";
   } else if (val === 42) {
