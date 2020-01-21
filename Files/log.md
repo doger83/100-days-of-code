@@ -1,5 +1,65 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 44 - Round 1
+
+#### January 21, 2020
+
+## Today's Progress:
+
+It was the first day having job interviews. I only learned a bit in the evening.
+
+## Thoughts
+
+Felt like having one meeting after the other, the whole day.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+
+  Today I finished 1 lesson:
+
+  - [x] Returning Boolean Values from Functions
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Codesnippets
+
+- ### JavaScript
+
+  Fix the function isEqual to remove the if/else statements.
+
+  ```javascript
+  function isEqual(a, b) {
+    if (a === b) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+  ```
+
+  solution:
+
+  ```javascript
+  function isEqual(a, b) {
+    return a === b;
+  }
+  ```
+
+## Daily Image
+
+Java Tutorial "Returning Boolean Values from Functions"
+
+<p style="align:left"><img src="../Files/images/Day 44 JS tutorial.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 43 - Round 1
 
 #### January 20, 2020
