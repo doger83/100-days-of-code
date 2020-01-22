@@ -1,5 +1,56 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 45 - Round 1
+
+#### January 22, 2020
+
+## Today's Progress:
+
+Next day having job interviews. I only learned a bit in the evening and started working on a new project for one hour (more reading and learning than coding). I had problems starting dev mode. But now it runs. Had great help!
+
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+
+  Today I finished 1 lesson:
+
+  - [x] Return Early Pattern for Functions
+
+## TODO
+
+- [ ] finish the web cert projects! (under progress)
+
+## Daily Codesnippets
+
+- ### JavaScript
+
+  #### Return Early Pattern for Functions
+
+  When a return statement is reached, the execution of the current function stops and control returns to the calling location.
+
+  Example
+
+  ```javascript
+  function myFun() {
+   console.log("Hello");
+   return "World";
+   console.log("byebye")
+   }
+  myFun();
+  ```
+
+## Daily Image
+
+Java Tutorial "Return Early Pattern for Functions"
+
+<p style="align:left"><img src="../Files/images/Day 45 JS tutorial.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
 ## Day 44 - Round 1
 
 #### January 21, 2020
