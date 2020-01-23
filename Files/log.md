@@ -1,5 +1,89 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 46 - Round 1
+
+#### January 23, 2020
+
+## Today's Progress:
+
+Today I had a job interview and was invited to stay for the rest of the day and do a short intership/trial work. It was very late but a great day.
+
+Did a short lesson as usal [@freeCodeCamp](https://www.freecodecamp.org/learn).
+
+## Tutorials
+
+### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+
+Today I finished 1 lesson:
+
+- [x] Counting Cards
+
+## Daily Codesnippets
+
+### JavaScript
+
+#### Counting Cards
+
+In the casino game Blackjack, a player can gain an advantage over the house by keeping track of the relative number of high and low cards remaining in the deck. This is called Card Counting.
+
+Having more high cards remaining in the deck favors the player. Each card is assigned a value according to the table below. When the count is positive, the player should bet high. When the count is zero or negative, the player should bet low.
+
+  | Count Change   | Cards      |
+  |----------------|------------|
+  | +1 | 2, 3, 4, 5, 6          |
+  | 0  | 7. 8. 9                |
+  | -1 | 10, 'J', 'Q', 'K', 'A' |
+
+You will write a card counting function. It will receive a card parameter, which can be a number or a string, and increment or decrement the global count variable according to the card's value (see table). The function will then return a string with the current count and the string Bet if the count is positive, or Hold if the count is zero or negative. The current count and the player's decision (Bet or Hold) should be separated by a single space.
+
+Example Output
+```
+-3 Hold
+5 Bet
+```
+- Do NOT reset count to 0 when value is 7, 8, or 9.
+- Do NOT return an array.
+- Do NOT include quotes (single or double) in the output.
+
+```javascript
+  function cc(card) {
+    switch(card) {
+      case 2:
+      case 3:
+      case 4:
+      case 5:
+      case 6:
+        count++;
+        break;
+      case 10:
+      case "J":
+      case "Q":
+      case "K":
+      case "A":
+        count--;
+        break;
+    }
+
+    var holdbet = 'Hold'
+    if (count > 0) {
+      holdbet = 'Bet'
+    }
+
+    return count + " " + holdbet;
+  }
+```
+
+## Daily Image
+
+Basic JavaScriptTutorial "Counting CardsPassed"
+
+<p style="align:left"><img src="../Files/images/Day 46 JS tutorial.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
 ## Day 45 - Round 1
 
 #### January 22, 2020
@@ -51,6 +135,7 @@ Java Tutorial "Return Early Pattern for Functions"
 | [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
 
 ---
+
 ## Day 44 - Round 1
 
 #### January 21, 2020
