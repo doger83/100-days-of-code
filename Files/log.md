@@ -1,5 +1,147 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 47 - Round 1
+
+#### January 24, 2020
+
+## Today's Progress:
+
+Started this day with some lessons about objects in JavaScript [@freeCodeCamp](https://www.freecodecamp.org/learn). Than I started working on my "real-world" WebSite project. Soon I realized, my coding skills are not good enough to work as fast as I need/want to right now. That's why I first did some YT tutorials about getting Gatsby.js started and how to use it with bootstrap and bootstrap react. 
+
+## Thoughts
+Gatsby.js is very great, but I **need** to learn deeper and more about react components to get my work finished.
+```
+Learning WebDevelopment can be hard ...
+But it still feels soooo amazing for me
+```
+
+## Projects
+
+- ### "real-world" WebSite project
+  TODO (Pivotaltracker storie):
+  - [ ] make sure that all pages and components look OK on different size screens 
+
+  WORK:
+  - [ ] under progress ...
+  - [ ] under progress ...
+
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+  Today I finished 8 lesson:
+
+  - [x] Build JavaScript Objects
+  - [x] Accessing Object Properties with Dot Notation
+  - [x] Accessing Object Properties with Bracket Notation
+  - [x] Accessing Object Properties with Variables
+  - [x] Updating Object Properties
+  - [x] Add New Properties to a JavaScript Object
+  - [x] Delete Properties from a JavaScript Object
+  - [x] Using Objects for Lookups
+
+- ### Gatsby - Full Tutorial for Beginners at [YouTube](https://www.youtube.com/watch?v=mHFAM0CXviE&t=710s) made by freeCodeCamp 
+
+   In this tutorial I learned:
+
+  - Introduction
+  - Mac & Windows Installation
+  - Creating a new site
+  - Adding Content
+  - Linking Pages
+  - Interactive Pages
+  - Building your site
+  - Components
+  - Plugins
+  - Layouts
+  - Site Data
+  - File Data
+  - Working with Markdown
+
+
+- ### Gatsbyjs Bootstrap 4 + React Bootstrap + Custom CSS (TUTORIAL) at [YouTube](https://www.youtube.com/watch?v=fLCiSSu6-sI)
+
+  In this tutorial I learned:
+
+  - how to install bootstrap and react bootstrap 
+  - add a navbar and a footer as components
+
+## Daily Code Snippets
+
+### JavaScript
+
+#### Using Objects for Lookups
+
+Convert the switch statement into an object called lookup. Use it to look up val and assign the associated string to the result variable.
+
+```javascript
+// Setup
+function phoneticLookup(val) {
+  var result = "";
+
+  // Only change code below this line
+  switch(val) {
+    case "alpha":
+      result = "Adams";
+      break;
+    case "bravo":
+      result = "Boston";
+      break;
+    case "charlie":
+      result = "Chicago";
+      break;
+    case "delta":
+      result = "Denver";
+      break;
+    case "echo":
+      result = "Easy";
+      break;
+    case "foxtrot":
+      result = "Frank";
+  }
+
+  // Only change code above this line
+  return result;
+}
+```
+Solution:
+```javascript
+// Setup
+function phoneticLookup(val) {
+  var result = "";
+
+  // Only change code below this line
+  
+  var lookup = {
+    "alpha"   : "Adams",
+    "bravo"   : "Boston",
+    "charlie" : "Chicago",
+    "delta"   : "Denver",
+    "echo"    : "Easy",
+    "foxtrot" : "Frank"
+  };
+
+  result = lookup[val];
+
+  // Only change code above this line
+    return result;
+  }
+
+```
+
+## Daily Image
+
+Basic JavaScriptTutorial "Using Objects for Lookups"
+
+<p style="align:left"><img src="../Files/images/Day 47 JS tutorial_8.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 46 - Round 1
 
 #### January 23, 2020
@@ -84,6 +226,7 @@ Basic JavaScriptTutorial "Counting CardsPassed"
 | [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
 
 ---
+
 ## Day 45 - Round 1
 
 #### January 22, 2020
