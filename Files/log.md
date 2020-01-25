@@ -1,5 +1,63 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 48 - Round 1
+
+#### January 25, 2020
+
+## Today's Progress:
+
+ I needed a break today. My head is full of stuff that I need to process. So I did only one lesson @FreeCodecamp. Maybe I watch some tutorials at YouTube later.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+  Today I finished 1 lesson:
+
+   - [x] Testing Objects for Properties
+
+
+## Daily Code Snippets
+
+### JavaScript
+
+#### Testing Objects for Properties
+
+Modify the function *checkObj* to test *myObj* for *checkProp*. If the property is found, return that property's value. If not, return "Not Found".
+
+```javascript
+function checkObj(checkProp) {
+  // Your Code Here
+
+  return "Change Me!";
+}
+```
+Solution:
+```javascript
+// Setup
+function checkObj(checkProp) {
+  // Your Code Here
+  if (myObj.hasOwnProperty(checkProp)) {
+    return myObj[checkProp];
+  } 
+  else {
+    return "Not Found"
+  }
+}
+```
+
+## Daily Image
+
+Basic JavaScript Tutorial "Testing Objects for Properties"
+
+<p style="align:left"><img src="../Files/images/Day 48 JS Tutorial.jpg" width="auto" title="daily image" alt="daily image" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;"></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 47 - Round 1
 
 #### January 24, 2020
@@ -39,7 +97,7 @@ But it still feels soooo amazing for me
   - [x] Updating Object Properties
   - [x] Add New Properties to a JavaScript Object
   - [x] Delete Properties from a JavaScript Object
-  - [x] Using Objects for Lookups
+  - [x] Using Objects for Lookups  
 
 - ### Gatsby - Full Tutorial for Beginners at [YouTube](https://www.youtube.com/watch?v=mHFAM0CXviE&t=710s) made by freeCodeCamp 
 
@@ -125,8 +183,8 @@ function phoneticLookup(val) {
   result = lookup[val];
 
   // Only change code above this line
-    return result;
-  }
+  return result;
+}
 
 ```
 
