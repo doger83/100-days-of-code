@@ -1,5 +1,91 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 49 - Round 1
+
+#### January 26, 2020
+
+## Today's Progress:
+
+Today I finished the 'Product Landing Page' project @freeCodeCamp. Some layout fixes and the header needs a bit attention. I will work on the Layout later.
+
+## Thoughts
+
+Great day tomorrow. I have my last job interview before I must decide where to go and what to do next.
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+  Today I finished 1 lesson:
+
+   - [x] Manipulating Complex Objects
+
+
+## Daily Code Snippets
+
+### JavaScript
+
+#### Manipulating Complex Objects
+
+Add a new album to the myMusic array. Add artist and title strings, release_year number, and a formats array of strings.
+
+```javascript
+var myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  }
+  // Add record here
+];
+```
+Solution:
+```javascript
+var myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  }, 
+
+  // Add record here
+  {
+    "artist": "Dominic Gerweck",
+    "title": "JavaScript tutorial",
+    "release_year": 2020,
+    "formats": [
+      "HTML", "CSS", "JS"
+    ]
+  }
+];
+
+```
+
+## Daily Images
+
+Responsive Web Design Projects - Build a Product Landing Page
+
+<p style="align:left"><img src="../Files/images/Day 49 PLP Home.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+<p style="align:left"><img src="../Files/images/Day 49 PLP passing teastst.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 48 - Round 1
 
 #### January 25, 2020
