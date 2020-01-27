@@ -86,7 +86,7 @@ var gloveBoxContents = myStorage.car.inside["glove box"];
   - Select all elements with an attribute value that ends with specific characters
   - Select all elements with an attribute value that contains specific characters anywh
 
-* ##ntroduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
+- ## 'Introduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
 
   What I learned in this course:
 
@@ -110,17 +110,14 @@ var gloveBoxContents = myStorage.car.inside["glove box"];
 
 'Introduction to HTML Language' Certification from [@DiiegoMariano](https://twitter.com/DiiegoMariano)
 
-<p style="align:left"><img src="../Files/images/Day 50 Udemy cert_HTML-DiegoM.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
-<p style="align:left"><img src="../Files/images/Day 50 css flukeout.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+<p style="align:left"><img src="../Files/images/Day 50 Udemy cert_HTML-DiegoM.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+<p style="align:left"><img src="../Files/images/Day 50 css flukeout.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
 
 ## Links to my work:
 
 | [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [TODO](todo.md) |
-
 | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) |
-
 | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) |
-
 | [DoubleD's Website](https://github.com/doger83/DoubleD) |
 
 ---
