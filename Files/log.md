@@ -1,5 +1,123 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 50 - Round 1
+
+#### January 27, 2020
+
+## Today's Progress:
+
+- Learned a new funny way to practice css selectors from [@flukeout](https://twitter.com/flukeout) → [cssdiner](http://cssdiner.com).
+- Finished my daily lesson @freeCodeCamp
+- Finished a short course @Udemy ['Introduction to HTML Language'](https://www.udemy.com/course/introduction-to-html/) made from [@DiiegoMariano](https://twitter.com/DiiegoMariano).
+
+## Thoughts
+
+Half way trough! Off to the next 50 days of code. Cant't await it...
+
+## Daily Code Snippets
+
+### JavaScript
+
+#### Accessing Nested ObjectsPassed
+
+Access the myStorage object and assign the contents of the glove box property to the gloveBoxContents variable. Use dot notation for all properties where possible, otherwise use bracket notation.
+
+```javascript
+// Setup
+var myStorage = {
+  car: {
+    inside: {
+      "glove box": "maps",
+      "passenger seat": "crumbs"
+    },
+    outside: {
+      trunk: "jack"
+    }
+  }
+};
+```
+
+Solution:
+
+```javascript
+var gloveBoxContents = myStorage.car.inside["glove box"];
+```
+
+## Tutorials
+
+- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+  Today I finished 1 lesson:
+
+  - [x] Accessing Nested Objects
+
+- ### CSS Diner at [@flukeout](http://cssdiner.com)
+
+  I learned in this tutorial how to:
+
+  - [x] Select elements by their type
+  - [x] Select elements with an ID
+  - [x] Select an element inside another element
+  - [x] Combine the Descendant & ID Selectors
+  - [x] Select elements by their class
+  - [x] Combine the Class Selector
+  - [x] Combine, selectors, with... commas!
+  - [x] Use the Universal Selector
+  - [x] Combine the Universal Selector
+  - [x] Select an element that directly follows another element
+  - [x] Select elements that follows another element
+  - [x] Select direct children of an element
+  - [x] Select a first child element inside of another element
+  - [x] Select an element that are the only element inside of another one.
+  - [x] Select the last element inside of another element
+  - [x] Select an element by its order in another element
+  - [x] Select an element by its order in another element, counting from the back
+  - [x] Select the first element of a specific type
+  - [x] Select a specific element based on its type and order in another element
+  - [x] Select every nth element, starting the count at a specific instance of that element
+  - [x] Select elements that are the only ones of their type within of their parent element
+  - [x] Select the last element of a specific type
+  - [x] Select elements that don't have children
+  - [x] Select all elements that don't match the negation selector
+  - [x] Select all elements that have a specific attribute
+  - [x] Select all elements that have a specific attribute
+  - [x] Select all elements that have a specific attribute value
+  - [x] Select all elements with an attribute value that starts with specific characters
+  - [x] Select all elements with an attribute value that ends with specific characters
+  - [x] Select all elements with an attribute value that contains specific characters anywhere
+
+* ### 'Introduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
+
+  What I learned in this course:
+
+  - [x] How does a website work?
+  - [x] What is HTML?
+  - [x] HTML5
+  - [x] Constructing my first Web page
+  - [x] Inserting text in your page
+  - [x] Paragraphs
+  - [x] Styles
+  - [x] Colors
+  - [x] Adding images to your Website
+  - [x] Lists
+  - [x] Creating links
+  - [x] Tables
+  - [x] Structure of a Website
+  - [x] Forms
+  - [x] Building a complete Website
+
+## Daily Images
+
+'Introduction to HTML Language' Certification from [@DiiegoMariano](https://twitter.com/DiiegoMariano)
+
+<p style="align:left"><img src="../Files/images/Day 50 Udemy cert_HTML-DiegoM.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+
+---
+
 ## Day 49 - Round 1
 
 #### January 26, 2020
@@ -18,8 +136,7 @@ Great day tomorrow. I have my last job interview before I must decide where to g
 
   Today I finished 1 lesson:
 
-   - [x] Manipulating Complex Objects
-
+  - [x] Manipulating Complex Objects
 
 ## Daily Code Snippets
 
@@ -32,45 +149,36 @@ Add a new album to the myMusic array. Add artist and title strings, release_year
 ```javascript
 var myMusic = [
   {
-    "artist": "Billy Joel",
-    "title": "Piano Man",
-    "release_year": 1973,
-    "formats": [
-      "CD",
-      "8T",
-      "LP"
-    ],
-    "gold": true
+    artist: "Billy Joel",
+    title: "Piano Man",
+    release_year: 1973,
+    formats: ["CD", "8T", "LP"],
+    gold: true
   }
   // Add record here
 ];
 ```
+
 Solution:
+
 ```javascript
 var myMusic = [
   {
-    "artist": "Billy Joel",
-    "title": "Piano Man",
-    "release_year": 1973,
-    "formats": [
-      "CD",
-      "8T",
-      "LP"
-    ],
-    "gold": true
-  }, 
+    artist: "Billy Joel",
+    title: "Piano Man",
+    release_year: 1973,
+    formats: ["CD", "8T", "LP"],
+    gold: true
+  },
 
   // Add record here
   {
-    "artist": "Dominic Gerweck",
-    "title": "JavaScript tutorial",
-    "release_year": 2020,
-    "formats": [
-      "HTML", "CSS", "JS"
-    ]
+    artist: "Dominic Gerweck",
+    title: "JavaScript tutorial",
+    release_year: 2020,
+    formats: ["HTML", "CSS", "JS"]
   }
 ];
-
 ```
 
 ## Daily Images
@@ -92,7 +200,7 @@ Responsive Web Design Projects - Build a Product Landing Page
 
 ## Today's Progress:
 
- I needed a break today. My head is full of stuff that I need to process. So I did only one lesson @FreeCodecamp. Maybe I watch some tutorials at YouTube later.
+I needed a break today. My head is full of stuff that I need to process. So I did only one lesson @FreeCodecamp. Maybe I watch some tutorials at YouTube later.
 
 ## Tutorials
 
@@ -100,8 +208,7 @@ Responsive Web Design Projects - Build a Product Landing Page
 
   Today I finished 1 lesson:
 
-   - [x] Testing Objects for Properties
-
+  - [x] Testing Objects for Properties
 
 ## Daily Code Snippets
 
@@ -109,7 +216,7 @@ Responsive Web Design Projects - Build a Product Landing Page
 
 #### Testing Objects for Properties
 
-Modify the function *checkObj* to test *myObj* for *checkProp*. If the property is found, return that property's value. If not, return "Not Found".
+Modify the function _checkObj_ to test _myObj_ for _checkProp_. If the property is found, return that property's value. If not, return "Not Found".
 
 ```javascript
 function checkObj(checkProp) {
@@ -118,16 +225,17 @@ function checkObj(checkProp) {
   return "Change Me!";
 }
 ```
+
 Solution:
+
 ```javascript
 // Setup
 function checkObj(checkProp) {
   // Your Code Here
   if (myObj.hasOwnProperty(checkProp)) {
     return myObj[checkProp];
-  } 
-  else {
-    return "Not Found"
+  } else {
+    return "Not Found";
   }
 }
 ```
@@ -150,10 +258,12 @@ Basic JavaScript Tutorial "Testing Objects for Properties"
 
 ## Today's Progress:
 
-Started this day with some lessons about objects in JavaScript [@freeCodeCamp](https://www.freecodecamp.org/learn). Than I started working on my "real-world" WebSite project. Soon I realized, my coding skills are not good enough to work as fast as I need/want to right now. That's why I first did some YT tutorials about getting Gatsby.js started and how to use it with bootstrap and bootstrap react. 
+Started this day with some lessons about objects in JavaScript [@freeCodeCamp](https://www.freecodecamp.org/learn). Than I started working on my "real-world" WebSite project. Soon I realized, my coding skills are not good enough to work as fast as I need/want to right now. That's why I first did some YT tutorials about getting Gatsby.js started and how to use it with bootstrap and bootstrap react.
 
 ## Thoughts
+
 Gatsby.js is very great, but I **need** to learn deeper and more about react components to get my work finished.
+
 ```
 Learning WebDevelopment can be hard ...
 But it still feels soooo amazing for me
@@ -162,13 +272,15 @@ But it still feels soooo amazing for me
 ## Projects
 
 - ### "real-world" WebSite project
+
   TODO (Pivotaltracker storie):
-  - [ ] make sure that all pages and components look OK on different size screens 
+
+  - [ ] make sure that all pages and components look OK on different size screens
 
   WORK:
-  - [ ] under progress ...
-  - [ ] under progress ...
 
+  - [ ] under progress ...
+  - [ ] under progress ...
 
 ## Tutorials
 
@@ -183,11 +295,11 @@ But it still feels soooo amazing for me
   - [x] Updating Object Properties
   - [x] Add New Properties to a JavaScript Object
   - [x] Delete Properties from a JavaScript Object
-  - [x] Using Objects for Lookups  
+  - [x] Using Objects for Lookups
 
-- ### Gatsby - Full Tutorial for Beginners at [YouTube](https://www.youtube.com/watch?v=mHFAM0CXviE&t=710s) made by freeCodeCamp 
+- ### Gatsby - Full Tutorial for Beginners at [YouTube](https://www.youtube.com/watch?v=mHFAM0CXviE&t=710s) made by freeCodeCamp
 
-   In this tutorial I learned:
+  In this tutorial I learned:
 
   - Introduction
   - Mac & Windows Installation
@@ -203,12 +315,11 @@ But it still feels soooo amazing for me
   - File Data
   - Working with Markdown
 
-
-- ### Gatsbyjs Bootstrap 4 + React Bootstrap + Custom CSS (TUTORIAL) at [YouTube](https://www.youtube.com/watch?v=fLCiSSu6-sI)
+* ### Gatsbyjs Bootstrap 4 + React Bootstrap + Custom CSS (TUTORIAL) at [YouTube](https://www.youtube.com/watch?v=fLCiSSu6-sI)
 
   In this tutorial I learned:
 
-  - how to install bootstrap and react bootstrap 
+  - how to install bootstrap and react bootstrap
   - add a navbar and a footer as components
 
 ## Daily Code Snippets
@@ -225,7 +336,7 @@ function phoneticLookup(val) {
   var result = "";
 
   // Only change code below this line
-  switch(val) {
+  switch (val) {
     case "alpha":
       result = "Adams";
       break;
@@ -249,21 +360,23 @@ function phoneticLookup(val) {
   return result;
 }
 ```
+
 Solution:
+
 ```javascript
 // Setup
 function phoneticLookup(val) {
   var result = "";
 
   // Only change code below this line
-  
+
   var lookup = {
-    "alpha"   : "Adams",
-    "bravo"   : "Boston",
-    "charlie" : "Chicago",
-    "delta"   : "Denver",
-    "echo"    : "Easy",
-    "foxtrot" : "Frank"
+    alpha: "Adams",
+    bravo: "Boston",
+    charlie: "Chicago",
+    delta: "Denver",
+    echo: "Easy",
+    foxtrot: "Frank"
   };
 
   result = lookup[val];
@@ -271,7 +384,6 @@ function phoneticLookup(val) {
   // Only change code above this line
   return result;
 }
-
 ```
 
 ## Daily Image
@@ -314,49 +426,51 @@ In the casino game Blackjack, a player can gain an advantage over the house by k
 
 Having more high cards remaining in the deck favors the player. Each card is assigned a value according to the table below. When the count is positive, the player should bet high. When the count is zero or negative, the player should bet low.
 
-  | Count Change   | Cards      |
-  |----------------|------------|
-  | +1 | 2, 3, 4, 5, 6          |
-  | 0  | 7. 8. 9                |
-  | -1 | 10, 'J', 'Q', 'K', 'A' |
+| Count Change | Cards                  |
+| ------------ | ---------------------- |
+| +1           | 2, 3, 4, 5, 6          |
+| 0            | 7. 8. 9                |
+| -1           | 10, 'J', 'Q', 'K', 'A' |
 
 You will write a card counting function. It will receive a card parameter, which can be a number or a string, and increment or decrement the global count variable according to the card's value (see table). The function will then return a string with the current count and the string Bet if the count is positive, or Hold if the count is zero or negative. The current count and the player's decision (Bet or Hold) should be separated by a single space.
 
 Example Output
+
 ```
 -3 Hold
 5 Bet
 ```
+
 - Do NOT reset count to 0 when value is 7, 8, or 9.
 - Do NOT return an array.
 - Do NOT include quotes (single or double) in the output.
 
 ```javascript
-  function cc(card) {
-    switch(card) {
-      case 2:
-      case 3:
-      case 4:
-      case 5:
-      case 6:
-        count++;
-        break;
-      case 10:
-      case "J":
-      case "Q":
-      case "K":
-      case "A":
-        count--;
-        break;
-    }
-
-    var holdbet = 'Hold'
-    if (count > 0) {
-      holdbet = 'Bet'
-    }
-
-    return count + " " + holdbet;
+function cc(card) {
+  switch (card) {
+    case 2:
+    case 3:
+    case 4:
+    case 5:
+    case 6:
+      count++;
+      break;
+    case 10:
+    case "J":
+    case "Q":
+    case "K":
+    case "A":
+      count--;
+      break;
   }
+
+  var holdbet = "Hold";
+  if (count > 0) {
+    holdbet = "Bet";
+  }
+
+  return count + " " + holdbet;
+}
 ```
 
 ## Daily Image
@@ -378,7 +492,6 @@ Basic JavaScriptTutorial "Counting CardsPassed"
 ## Today's Progress:
 
 Next day having job interviews. I only learned a bit in the evening and started working on a new project for one hour (more reading and learning than coding). I had problems starting dev mode. But now it runs. Had great help!
-
 
 ## Tutorials
 
@@ -404,10 +517,10 @@ Next day having job interviews. I only learned a bit in the evening and started 
 
   ```javascript
   function myFun() {
-   console.log("Hello");
-   return "World";
-   console.log("byebye")
-   }
+    console.log("Hello");
+    return "World";
+    console.log("byebye");
+  }
   myFun();
   ```
 
@@ -516,7 +629,7 @@ The training centers are an option that I will keep in mind as an alternative.
 
   Replacing If Else Chains with Switch
 
-  ``` javascript
+  ```javascript
   if (val === "bob") {
     answer = "Marley";
   } else if (val === 42) {
