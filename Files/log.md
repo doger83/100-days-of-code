@@ -49,72 +49,79 @@ var gloveBoxContents = myStorage.car.inside["glove box"];
 
   Today I finished 1 lesson:
 
-  - [x] Accessing Nested Objects
+  - Accessing Nested Objects
 
 - ### CSS Diner at [@flukeout](http://cssdiner.com)
 
-  I learned in this tutorial how to:
+  I learned in this tutorial how
 
-  - [x] Select elements by their type
-  - [x] Select elements with an ID
-  - [x] Select an element inside another element
-  - [x] Combine the Descendant & ID Selectors
-  - [x] Select elements by their class
-  - [x] Combine the Class Selector
-  - [x] Combine, selectors, with... commas!
-  - [x] Use the Universal Selector
-  - [x] Combine the Universal Selector
-  - [x] Select an element that directly follows another element
-  - [x] Select elements that follows another element
-  - [x] Select direct children of an element
-  - [x] Select a first child element inside of another element
-  - [x] Select an element that are the only element inside of another one.
-  - [x] Select the last element inside of another element
-  - [x] Select an element by its order in another element
-  - [x] Select an element by its order in another element, counting from the back
-  - [x] Select the first element of a specific type
-  - [x] Select a specific element based on its type and order in another element
-  - [x] Select every nth element, starting the count at a specific instance of that element
-  - [x] Select elements that are the only ones of their type within of their parent element
-  - [x] Select the last element of a specific type
-  - [x] Select elements that don't have children
-  - [x] Select all elements that don't match the negation selector
-  - [x] Select all elements that have a specific attribute
-  - [x] Select all elements that have a specific attribute
-  - [x] Select all elements that have a specific attribute value
-  - [x] Select all elements with an attribute value that starts with specific characters
-  - [x] Select all elements with an attribute value that ends with specific characters
-  - [x] Select all elements with an attribute value that contains specific characters anywhere
+  - Select elements by their type
+  - Select elements with an ID
+  - Select an element inside another element
+  - Combine the Descendant & ID Selectors
+  - Select elements by their class
+  - Combine the Class Selector
+  - Combine, selectors, with... commas!
+  - Use the Universal Selector
+  - Combine the Universal Selector
+  - Select an element that directly follows another element
+  - Select elements that follows another element
+  - Select direct children of an element
+  - Select a first child element inside of another element
+  - Select an element that are the only element inside of another one.
+  - Select the last element inside of another element
+  - Select an element by its order in another element
+  - Select an element by its order in another element, counting from the back
+  - Select the first element of a specific type
+  - Select a specific element based on its type and order in another element
+  - Select every nth element, starting the count at a specific instance of that element
+  - Select elements that are the only ones of their type within of their parent element
+  - Select the last element of a specific type
+  - Select elements that don't have children
+  - Select all elements that don't match the negation selector
+  - Select all elements that have a specific attribute
+  - Select all elements that have a specific attribute
+  - Select all elements that have a specific attribute value
+  - Select all elements with an attribute value that starts with specific characters
+  - Select all elements with an attribute value that ends with specific characters
+  - Select all elements with an attribute value that contains specific characters anywh
 
-* ### 'Introduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
+* ##ntroduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
 
   What I learned in this course:
 
-  - [x] How does a website work?
-  - [x] What is HTML?
-  - [x] HTML5
-  - [x] Constructing my first Web page
-  - [x] Inserting text in your page
-  - [x] Paragraphs
-  - [x] Styles
-  - [x] Colors
-  - [x] Adding images to your Website
-  - [x] Lists
-  - [x] Creating links
-  - [x] Tables
-  - [x] Structure of a Website
-  - [x] Forms
-  - [x] Building a complete Website
+  - How does a website work?
+  - What is HTML?
+  - HTML5
+  - Constructing my first Web page
+  - Inserting text in your page
+  - Paragraphs
+  - Styles
+  - Colors
+  - Adding images to your Website
+  - Lists
+  - Creating links
+  - Tables
+  - Structure of a Website
+  - Forms
+  - Building a complete Website
 
 ## Daily Images
 
 'Introduction to HTML Language' Certification from [@DiiegoMariano](https://twitter.com/DiiegoMariano)
 
 <p style="align:left"><img src="../Files/images/Day 50 Udemy cert_HTML-DiegoM.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+<p style="align:left"><img src="../Files/images/Day 50 css flukeout.jpg" style="margin: 15px; border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
 
 ## Links to my work:
 
-| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [TODO](todo.md) |
+
+| [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) |
+
+| [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) |
+
+| [DoubleD's Website](https://github.com/doger83/DoubleD) |
 
 ---
 
@@ -191,8 +198,6 @@ Responsive Web Design Projects - Build a Product Landing Page
 ## Links to my work:
 
 | [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) | [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) | [DoubleD's Website](https://github.com/doger83/DoubleD) |[TODO](todo.md) |
-
----
 
 ## Day 48 - Round 1
 
