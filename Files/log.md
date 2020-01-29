@@ -1,5 +1,36 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 51 - Round 1
+
+#### January 27, 2020
+
+## Today's Progress:
+
+NO CODING. I take a break. Just a short tutorial at freeCodeCamp.
+
+## Tutorials
+
+### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+Today I finished 1 lesson:
+
+- Accessing Nested Objects
+
+## Daily Images
+
+Take a Break!
+
+<p style="align:left"><img src="../Files/images/Day 51 Jtake a break.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [TODO](todo.md) |
+| [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) |
+| [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) |
+| [DoubleD's Website](https://github.com/doger83/DoubleD) |
+
+---
+
 ## Day 50 - Round 1
 
 #### January 27, 2020
