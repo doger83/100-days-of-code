@@ -1,5 +1,136 @@
 # #100DaysOfCode Log - Round 1 - Dominic Gerweck
 
+## Day 52 - Round 1
+
+#### January 29, 2020
+
+## Today's Progress:
+
+- Finished my daily lesson @freeCodeCamp
+- Finished a course @Udemy ['Build Your First Website in 1 Week with HTML5 and CSS3'](https://www.udemy.com/share/101rHACUIYdFZSQns=/) made from [@RyanBonhardt](https://twitter.com/RyanBonhardt).
+
+## Thoughts
+
+To take a break yesterday feels like a total refresh.
+
+## Daily Code Snippets
+
+### JavaScript
+
+#### Record Collection
+
+You are given a JSON object representing a part of your musical album collection. Each album has several properties and a unique id number as its key. Not all albums have complete information.
+
+Write a function which takes an album's id (like 2548), a property prop (like "artist" or "tracks"), and a value (like "Addicted to Love") to modify the data in this collection.
+
+If prop isn't "tracks" and value isn't empty (""), update or set the value for that record album's property.
+
+Your function must always return the entire collection object.
+
+There are several rules for handling incomplete data:
+
+If prop is "tracks" but the album doesn't have a "tracks" property, create an empty array before adding the new value to the album's corresponding property.
+
+If prop is "tracks" and value isn't empty (""), push the value onto the end of the album's existing tracks array.
+
+If value is empty (""), delete the given prop property from the album.
+
+Hints
+Use bracket notation when accessing object properties with variables.
+
+Push is an array method you can read about on Mozilla Developer Network.
+
+You may refer back to Manipulating Complex Objects Introducing JavaScript Object Notation (JSON) for a refresher.
+
+```javascript
+// Setup
+var collection = {
+  2548: {
+    album: "Slippery When Wet",
+    artist: "Bon Jovi",
+    tracks: ["Let It Rock", "You Give Love a Bad Name"]
+  },
+  2468: {
+    album: "1999",
+    artist: "Prince",
+    tracks: ["1999", "Little Red Corvette"]
+  },
+  1245: {
+    artist: "Robert Palmer",
+    tracks: []
+  },
+  5439: {
+    album: "ABBA Gold"
+  }
+};
+
+// Alter values below to test your code
+updateRecords(5439, "artist", "ABBA");
+```
+
+Solution:
+
+```javascript
+function updateRecords(id, prop, value) {
+  if (value === "") {
+    delete collection[id][prop];
+  } else if (prop === "tracks") {
+    collection[id][prop] = collection[id][prop] || [];
+    collection[id][prop].push(value);
+  } else {
+    collection[id][prop] = value;
+  }
+
+  return collection;
+}
+
+// Alter values below to test your code
+updateRecords(2468, "tracks", "test");
+
+console.log(updateRecords(5439, "artist", "ABBA"));
+```
+
+## Tutorials
+
+### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+Today I finished 1 lesson:
+
+- Record Collection
+
+### 'Build Your First Website in 1 Week with HTML5 and CSS3' at [Udemy](https://www.udemy.com/share/101rHACUIYdFZSQns=/)
+
+What I learned in this course (Main topics overview):
+
+- HTML Basics
+- CSS Basics
+- Bootstrap Basics
+- Google Fonts
+- Box Model
+- Adding images
+- The Grid System
+- The Benefits Of Using Classes
+- All About IDs
+- Getting Your Site Live Online With Forge
+- and many many more ..
+
+## Daily Images
+
+'Build Your First Website in 1 Week with HTML5 and CSS3' Certification from [@RyanBonhardt](https://twitter.com/RyanBonhardt)
+
+<p style="align:left"><img src="../Files/images/UC-38KHU4JE.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+
+Daily lesson at freeCodeCamp
+
+<p style="align:left"><img src="../Files/images/Day 52 JS tutorial_8.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="daily image" alt="daily image" ></p>
+
+## Links to my work:
+
+| [My GithubPage](https://doger83.github.io/PersonalPortfolio/) | [FlexBox Template](https://github.com/doger83/WebsiteTemplate) | [TODO](todo.md) |
+| [Personal Portfolio](https://github.com/doger83/PersonalPortfolio) | [Tribute Page](https://github.com/doger83/Tributepage) | [Survey Form](https://github.com/doger83/SurveyForm) |
+| [Product Landing Page](https://github.com/doger83/ProductLandingPage) | [g2Asteroids](https://github.com/doger83/g2Asteroids) | [Quiz App](https://github.com/doger83/QuizApp) |
+| [DoubleD's Website](https://github.com/doger83/DoubleD) |
+
 ## Day 51 - Round 1
 
 #### January 27, 2020
@@ -14,7 +145,7 @@ NO CODING. I take a break. Just a short tutorial at freeCodeCamp.
 
 Today I finished 1 lesson:
 
-- Accessing Nested Objects
+- Accessing Nested Arrays
 
 ## Daily Images
 
@@ -76,66 +207,66 @@ var gloveBoxContents = myStorage.car.inside["glove box"];
 
 ## Tutorials
 
-- ### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+### JavaScript Algorithms and Data Structures' Certification at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-  Today I finished 1 lesson:
+Today I finished 1 lesson:
 
-  - Accessing Nested Objects
+- Accessing Nested Objects
 
-- ### CSS Diner at [@flukeout](http://cssdiner.com)
+### CSS Diner at [@flukeout](http://cssdiner.com)
 
-  I learned in this tutorial how
+I learned in this tutorial how
 
-  - Select elements by their type
-  - Select elements with an ID
-  - Select an element inside another element
-  - Combine the Descendant & ID Selectors
-  - Select elements by their class
-  - Combine the Class Selector
-  - Combine, selectors, with... commas!
-  - Use the Universal Selector
-  - Combine the Universal Selector
-  - Select an element that directly follows another element
-  - Select elements that follows another element
-  - Select direct children of an element
-  - Select a first child element inside of another element
-  - Select an element that are the only element inside of another one.
-  - Select the last element inside of another element
-  - Select an element by its order in another element
-  - Select an element by its order in another element, counting from the back
-  - Select the first element of a specific type
-  - Select a specific element based on its type and order in another element
-  - Select every nth element, starting the count at a specific instance of that element
-  - Select elements that are the only ones of their type within of their parent element
-  - Select the last element of a specific type
-  - Select elements that don't have children
-  - Select all elements that don't match the negation selector
-  - Select all elements that have a specific attribute
-  - Select all elements that have a specific attribute
-  - Select all elements that have a specific attribute value
-  - Select all elements with an attribute value that starts with specific characters
-  - Select all elements with an attribute value that ends with specific characters
-  - Select all elements with an attribute value that contains specific characters anywh
+- Select elements by their type
+- Select elements with an ID
+- Select an element inside another element
+- Combine the Descendant & ID Selectors
+- Select elements by their class
+- Combine the Class Selector
+- Combine, selectors, with... commas!
+- Use the Universal Selector
+- Combine the Universal Selector
+- Select an element that directly follows another element
+- Select elements that follows another element
+- Select direct children of an element
+- Select a first child element inside of another element
+- Select an element that are the only element inside of another one.
+- Select the last element inside of another element
+- Select an element by its order in another element
+- Select an element by its order in another element, counting from the back
+- Select the first element of a specific type
+- Select a specific element based on its type and order in another element
+- Select every nth element, starting the count at a specific instance of that element
+- Select elements that are the only ones of their type within of their parent element
+- Select the last element of a specific type
+- Select elements that don't have children
+- Select all elements that don't match the negation selector
+- Select all elements that have a specific attribute
+- Select all elements that have a specific attribute
+- Select all elements that have a specific attribute value
+- Select all elements with an attribute value that starts with specific characters
+- Select all elements with an attribute value that ends with specific characters
+- Select all elements with an attribute value that contains specific characters anywh
 
-- ## 'Introduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
+### 'Introduction to HTML Language' at [Udemy](https://www.udemy.com/course/introduction-to-html/)
 
-  What I learned in this course:
+What I learned in this course:
 
-  - How does a website work?
-  - What is HTML?
-  - HTML5
-  - Constructing my first Web page
-  - Inserting text in your page
-  - Paragraphs
-  - Styles
-  - Colors
-  - Adding images to your Website
-  - Lists
-  - Creating links
-  - Tables
-  - Structure of a Website
-  - Forms
-  - Building a complete Website
+- How does a website work?
+- What is HTML?
+- HTML5
+- Constructing my first Web page
+- Inserting text in your page
+- Paragraphs
+- Styles
+- Colors
+- Adding images to your Website
+- Lists
+- Creating links
+- Tables
+- Structure of a Website
+- Forms
+- Building a complete Website
 
 ## Daily Images
 
