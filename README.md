@@ -6,7 +6,7 @@ Follow me during this challenge on
 ## Contents
 
 * [Rules](Files/rules.md)
-* [Log - click here to see my progress](Files/log.md)
+* [Log - click here to see my progress](https://doger83.github.io/100-days-of-code/Files/log.html)
 * [FAQ](FAQ.md)
 * [Resources](Files/resources.md)
 
